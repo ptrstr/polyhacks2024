@@ -1,77 +1,39 @@
-import React from 'react';
-import { StyleSheet } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createMaterialBottomTabNavigator } from "react-native-paper/react-navigation";
+import { Provider } from 'react-native-paper';
+import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { CommonActions, NavigationContainer } from '@react-navigation/native';
-import { Text, BottomNavigation, PaperProvider } from 'react-native-paper';
-import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { HomeScreen } from './components/Home';
 import { SettingsScreen } from './components/Settings';
+import { HomeScreen } from './components/Home';
 
 
-const Tab = createBottomTabNavigator();
+const Tab = createMaterialBottomTabNavigator();
 
 export default function App() {
   return (
-    <PaperProvider>
+    <Provider>
       <NavigationContainer>
-        <Tab.Navigator
-          screenOptions={{
-            headerShown: false,
-          }}
-          tabBar={({ navigation, state, descriptors, insets }) => (
-            <BottomNavigation.Bar
-              navigationState={state}
-              safeAreaInsets={insets}
-              onTabPress={({ route, preventDefault }) => {
-                const event = navigation.emit({
-                  type: 'tabPress',
-                  target: route.key,
-                  canPreventDefault: true,
-                });
-
-                if (event.defaultPrevented) {
-                  preventDefault();
-                } else {
-                  navigation.dispatch({
-                    ...CommonActions.navigate(route.name, route.params),
-                    target: state.key,
-                  });
-                }
-              }}
-              renderIcon={({ route, focused, color }) =>
-                descriptors[route.key].options.tabBarIcon?.({
-                  focused,
-                  color,
-                  size: 24,
-                }) || null
-              }
-              getLabelText={({ route }) => descriptors[route.key].route.name}
-            />
-          )}
-        >
+        <Tab.Navigator>
           <Tab.Screen
             name="Home"
             component={HomeScreen}
             options={{
-              tabBarIcon: ({ color, size }) => {
-                return <Icon name="home" size={size} color={color} />;
-              },
+              tabBarIcon: ({ color }) => (
+                <MaterialCommunityIcons name="home" color={color} size={26} />
+              ),
             }}
           />
           <Tab.Screen
             name="Settings"
             component={SettingsScreen}
             options={{
-              tabBarIcon: ({ color, size }) => {
-                return <Icon name="cog" size={size} color={color} />;
-              },
+              tabBarIcon: ({ color }) => (
+                <MaterialCommunityIcons name="cog" color={color} size={26} />
+              ),
             }}
           />
         </Tab.Navigator>
       </NavigationContainer>
-    </PaperProvider >
+    </Provider>
   );
 }
-
-App.title = 'Superb App';
