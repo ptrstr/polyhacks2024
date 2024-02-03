@@ -5,7 +5,7 @@ import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityI
 
 import { SettingsScreen } from './components/Settings';
 import { HomeScreen } from './components/Home';
-
+import { QuestionnaireScreen } from './components/Questionnaire';
 
 const Tab = createMaterialBottomTabNavigator();
 
@@ -29,6 +29,15 @@ export default function App() {
             options={{
               tabBarIcon: ({ color }) => (
                 <MaterialCommunityIcons name="cog" color={color} size={26} />
+              ),
+            }}
+          />
+          <Tab.Screen
+            name="Questionnaire"
+            component={QuestionnaireScreen}
+            options={{
+              tabBarIcon: ({ color }) => (
+                <MaterialCommunityIcons name="chat-question" color={color} size={26} />
               ),
             }}
           />
