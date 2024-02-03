@@ -1,43 +1,33 @@
-import React, {Component} from 'react';
-import {StyleSheet, TouchableOpacity, Text, View} from 'react-native';
+import * as React from 'react';
+import { Text, View } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 
-class App extends Component {
-  state = {
-    count: 0,
-  };
-
-  onPress = () => {
-    this.setState({
-      count: this.state.count + 1,
-    });
-  };
-
-  render() {
-    return (
-      <View style={styles.container}>
-        <TouchableOpacity style={styles.button} onPress={this.onPress}>
-          <Text>Click me</Text>
-        </TouchableOpacity>
-        <View>
-          <Text>You clicked {this.state.count} times</Text>
-        </View>
-      </View>
-    );
-  }
+function HomeScreen() {
+  return (
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+      <Text>Home!</Text>
+    </View>
+  );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  button: {
-    alignItems: 'center',
-    backgroundColor: '#FFEE00',
-    padding: 100,
-    marginBottom: 100,
-  },
-});
+function SettingsScreen() {
+  return (
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+      <Text>Settings!</Text>
+    </View>
+  );
+}
 
-export default App;
+const Tab = createMaterialBottomTabNavigator();
+
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Tab.Navigator>
+        <Tab.Screen name="Home" component={HomeScreen} />
+        <Tab.Screen name="Settings" component={SettingsScreen} />
+      </Tab.Navigator>
+    </NavigationContainer>
+  );
+}
