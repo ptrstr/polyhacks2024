@@ -1,0 +1,174 @@
+{
+    "form":{
+        
+        "Student": 
+        {
+            "id": 1,
+            "text": "Are you a student?",
+            "student_price": 58,
+            "adult_price" : 97
+        },
+
+        "Deplacement": 
+        {
+            "id": 2,
+            "text": "Do you commute to work/school?"
+        },
+        
+        "Distance": 
+        {
+            "id": 3,
+            "text": "What distance do you travel daily?"
+        },
+
+        "Frequency": 
+        {
+            "id": 4,
+            "text": "How often/week ?"
+        },
+        
+        "Transport": 
+        {
+            "id": 5,
+            "text" : "Do you use reusable bags every time you go grocery shopping?",
+            "yes_price" : 0.04 
+        }
+    },
+
+  "questions": {
+   
+    "non-condition" : [
+        
+        {
+            "id": 1,
+            "text": "Did you use a reusable cup to consume water?",
+            "yes_price": 0.99
+        },
+
+        {
+            "id": 2,
+            "text": "Did you use a reusable cup to consume cofee?",
+            "yes_price": 0.10
+        },
+
+        {
+            "id": 3,
+            "text": "Was your dinner packed in a Tupperware?",
+            "yes_price": 0.06
+        },
+
+        {
+            "id": 4,
+            "text": "Do you unplug ALL your devices when they have finished charging?",
+            "yes_price": 0.13
+        },
+
+        {
+            "id": 5,
+            "text": "Do you unplug the electrical cables from the wall socket when they are no longer connected to any device?",
+            "yes_price": 0.13
+        }
+      
+
+    ],
+
+    "yes-condition" : [
+
+        {
+            "id": 1,
+            "text": "Did you take the car today?"
+        },
+
+        {
+            "id": 2,
+            "text": "Did you use a reusable bag for your shopping?",
+            "yes_price" : 0.25
+        }
+
+    ]   
+  },
+
+  "astuces": [
+        
+        {
+            "id": 1,
+            "text": "Did you know that people using reusable cups often get discounts at local cafes?"
+        },
+
+        {
+            "id": 2,
+            "text": "The energy consumed in standby mode by your electronic devices can account for up to 10% of your electricity bill!?"
+        },
+
+        {
+            "id": 3,
+            "text": "Look for the small blue star. When shopping for a tablet or a new refrigerator, make sure you are purchasing ENERGY STAR certified products. This small blue star indicates that these products consume less energy when in use, and also use less standby power than products that are not ENERGY STAR certified."        
+        },
+
+        {
+            "id": 4,
+            "text": " We leave many electronic devices plugged in even when we don't use them very often. Ask yourself if you need to leave the following devices plugged in all the time: Coffee maker Electric toothbrush Game consoles DVD player Cell phone charger"
+        },
+
+        {
+            "id": 5,
+            "text": "Electronic devices are in standby mode about 75% of the time!"
+        },
+
+        {
+            "id": 6,
+            "text": "Sometimes, certain devices that are used very infrequently consume more electricity in a year when turned off than when they are in use."
+        },
+
+        {
+            "id": 7,
+            "text": "In Canada, standby mode accounts for a consumption of approximately 5.4 terawatt-hours (TWh), equivalent to the annual electricity needs of 300,000 households."
+        },
+
+        {
+            "id": 8,
+            "text": "Unplug all your devices when leaving home or the office for an extended period. Why pay for extra watts when you are away for a week or more?"
+        },
+
+        {
+            "id": 9,
+            "text": "Advanced power strips can help save electricity and reduce greenhouse gas emissions."
+        },
+
+        {
+            "id": 10,
+            "text": "Heating and air conditioning account for almost two-thirds of your home's energy consumption."
+        },
+
+        {
+            "id": 11,
+            "text": "To reduce energy consumption, a good solution is, for example, to program the temperature to 17 Celsius when you sleep or are away, and to 20 Celsius when you are awake and at home."
+        },
+
+        {
+            "id": 12,
+            "text": "Did you know that an email of only 1 MB corresponds to 15 grams of CO2 emissions? This simple send is equivalent to using a light bulb for 24 hours!"
+        },
+
+        {
+            "id": 13,
+            "text": "Emails generate 410 million tons of CO2 per year!!"
+        },
+
+        {
+            "id": 14,
+            "text": "Did you know that the more you accelerate abruptly, the higher your fuel consumption increases? In the city, you can save fuel by pressing the accelerator pedal gently and progressively."
+        },
+
+        {
+            "id": 15,
+            "text": "Tip: Maintain a constant speed. During sudden speed drops and abrupt accelerations, you consume more fuel and spend more money than you should. Studies show that fuel consumption increases by more than 20% when the vehicle speed varies between 75 and 85 km/h every 18 seconds."
+        },
+
+        {
+            "id": 16,
+            "text": "Tip: Avoid high speeds. Most cars, vans, trucks, and SUVs reach their maximum efficiency at speeds between 50 and 80 km/h. Beyond this range, the fuel consumption of vehicles increases with speed."
+        }
+    ]
+}
+  
