@@ -1,8 +1,10 @@
 import { useState, useEffect } from 'react';
+import { GameEngine } from "react-native-game-engine"
 import { MapScreen } from './Map';
+import BestGameEver from './game/index.js';
 
 export function GameScreen() {
-    const [step, setStep] = useState(0);
+    const [step, setStep] = useState(2);
     
     let content;
 
@@ -14,6 +16,7 @@ export function GameScreen() {
         case 1: // Camera screen
             break;
         case 2: // PoGo scene
+            content = <BestGameEver />;
             break;
     }
 
