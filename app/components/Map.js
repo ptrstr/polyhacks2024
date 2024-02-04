@@ -9,8 +9,8 @@ import { Asset } from 'expo-asset';
 // https://www.donneesquebec.ca/recherche/dataset/ecocentres-et-points-de-depot-municipaux
 
 export function MapScreen({ step, setStep }) {
-    const [userCoords, setUserCoords] = useState({longitude: 0, latitude: 0, latitudeDelta: 0.5, longitudeDelta: 0.5});
-    const [coords, setCoords] = useState({longitude: 0, latitude: 0, latitudeDelta: 0.5, longitudeDelta: 0.5});
+    const [userCoords, setUserCoords] = useState({ longitude: 0, latitude: 0, latitudeDelta: 0.5, longitudeDelta: 0.5 });
+    const [coords, setCoords] = useState({ longitude: 0, latitude: 0, latitudeDelta: 0.5, longitudeDelta: 0.5 });
     const [ecocentres, setEcocentres] = useState([]);
 
     useEffect(() => {
@@ -26,54 +26,60 @@ export function MapScreen({ step, setStep }) {
 
             let location = await Location.getCurrentPositionAsync({});
 
-            setUserCoords({...userCoords, latitude: location.coords.latitude, longitude: location.coords.longitude});
-            setCoords({...userCoords});
+            setUserCoords({ ...userCoords, latitude: location.coords.latitude, longitude: location.coords.longitude });
+            setCoords({ ...userCoords });
         })();
     }, []);
 
     const onUserLocationChange = (event) => {
         if (event.coordinate) {
             setUserCoords(event.coordinate);
-            setCoords({...userCoords});
+            setCoords({ ...userCoords });
         }
     };
 
     const onRegionChange = (region, details) => {
-        setCoords({...userCoords});
+        setCoords({ ...userCoords });
     };
 
     return (
-        <MapView
-            style={styles.map}
-            region={coords}
-            showsUserLocation={true}
-            showsBuildings={true}
-            scrollEnabled={false}
-            scrollDuringRotateOrZoomEnabled={false}
-            mapType='terrain'
-            followsUserLocation={true}
-            onRegionChange={onRegionChange}
-            onRegionChangeComplete={onRegionChange}
-            onLongPress={onRegionChange}
-            onPanDrag={onRegionChange}
-            onPress={onRegionChange}
-            onUserLocationChange={onUserLocationChange}>
-            <UrlTile
-                urlTemplate='http://c.tile.openstreetmap.org/{z}/{x}/{y}.png'
-                flipY={false}
-            />
-            {ecocentres.map((marker, index) => (
-                <Marker
-                    key={index}
-                    coordinate={{
-                        latitude: marker.Collecte_Latitude,
-                        longitude: marker.Collecte_Longitude,
-                    }}
-                    title={marker.Collecte_Nom}
-                    description={`${marker.Collecte_Adresse}, ${marker.Collecte_Ville}`}
-                />
-            ))}
-        </MapView>
+        <>
+            <MapView
+                style={styles.map}
+                region={coords}
+                showsUserLocation={true}
+                showsBuildings={true}
+                scrollEnabled={false}
+                scrollDuringRotateOrZoomEnabled={false}
+                mapType='terrain'
+                followsUserLocation={true}
+                onRegionChange={onRegionChange}
+                onRegionChangeComplete={onRegionChange}
+                onLongPress={onRegionChange}
+                onPanDrag={onRegionChange}
+                onPress={onRegionChange}
+                onUserLocationChange={onUserLocationChange}>
+                <UrlTile
+                    urlTemplate='http://c.tile.openstreetmap.org/{z}/{x}/{y}.png'
+                    flipY={false} />
+                {ecocentres.map((marker, index) => (
+                    <Marker
+                        key={index}
+                        coordinate={{
+                            latitude: marker.Collecte_Latitude,
+                            longitude: marker.Collecte_Longitude,
+                        }}
+                        title={marker.Collecte_Nom}
+                        description={`${marker.Collecte_Adresse}, ${marker.Collecte_Ville}`} />
+                ))}
+            </MapView>
+            <IconButton
+                icon="camera"
+                iconColor={MD3Colors.error50}
+                size={20}
+                style={styles.button}
+                onPress={() => console.log('Pressed')} />
+        </>
     );
 }
 
@@ -82,4 +88,8 @@ const styles = StyleSheet.create({
         width: '100%',
         height: '100%'
     },
+    button: {
+        position: "absolute",
+        bottom: 50
+    }
 });
