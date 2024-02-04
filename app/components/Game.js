@@ -4,7 +4,7 @@ import { CameraBackground } from './CameraBackground.js';
 import BestGameEver from './game/index.js';
 
 export function GameScreen() {
-    const [step, setStep] = useState(1);
+    const [step, setStep] = useState(0);
     
     let content;
 
