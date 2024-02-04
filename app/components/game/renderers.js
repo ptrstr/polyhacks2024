@@ -84,16 +84,25 @@ export class BgEnt extends PureComponent {
 }
 
 export class Catcher extends PureComponent {
+  constructor(props) {
+    super(props);
+    this.state = {visible: props.visible};
+  }
+
   render() {
     let radius = 300;
     const x = this.props.position[0] - radius / 2;
     const y = this.props.position[1] - radius / 2;
     return (
       <View style={[styles.monster, { left: x, top: y }]}>
-        <Image source={images.pokeball} style={{ width: radius, height: radius }} />
+        <Image source={images.pokeball} style={{ width: radius, height: radius, opacity: this.props.visible ? '100%' : '0%' }} />
       </View>
     );
   }
+}
+
+Catcher.defaultProps = {
+  visible: false
 }
 
 const styles = StyleSheet.create({

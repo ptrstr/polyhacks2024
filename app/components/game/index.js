@@ -26,7 +26,7 @@ export default class BestGameEver extends PureComponent {
               'rad' : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Radius radius={20} />},
               'bag' : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Bag />},
               'trash' : { position: [windowWidth / 2,  windowHeight / 3], renderer: <TrashMonster />},
-              'ball': { position: [windowWidth / 2,  windowHeight / 3], renderer: <Catcher /> }
+              'ball': { position: [windowWidth / 2,  windowHeight / 3], renderer: <Catcher visible={false} /> }
             }}>
           </GameEngine>
         </ImageBackground>

@@ -46,20 +46,11 @@ export default function App() {
       <NavigationContainer>
         <Tab.Navigator>
           <Tab.Screen
-            name="Home"
-            component={HomeScreen}
+            name="Game"
+            component={GameScreen}
             options={{
               tabBarIcon: ({ color }) => (
-                <MaterialCommunityIcons name="home" color={color} size={26} />
-              ),
-            }}
-          />
-          <Tab.Screen
-            name="Settings"
-            component={SettingsScreen}
-            options={{
-              tabBarIcon: ({ color }) => (
-                <MaterialCommunityIcons name="cog" color={color} size={26} />
+                <MaterialCommunityIcons name="google-controller" color={color} size={26} />
               ),
             }}
           />
@@ -69,15 +60,6 @@ export default function App() {
             options={{
               tabBarIcon: ({ color }) => (
                 <MaterialCommunityIcons name="chat-question" color={color} size={26} />
-              ),
-            }}
-          />
-          <Tab.Screen
-            name="Game"
-            component={GameScreen}
-            options={{
-              tabBarIcon: ({ color }) => (
-                <MaterialCommunityIcons name="google-controller" color={color} size={26} />
               ),
             }}
           />

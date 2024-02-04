@@ -74,9 +74,9 @@ export const BagCheck = (entities) => {
 }
 
 export const Catcher = (entities) => {
-    if (entities[IDS.BAG])
-        return entities;
-
+    if (!entities[IDS.BAG]) {
+        entities[IDS.BALL].visible = true;
+    }
 
     return entities;
 };
