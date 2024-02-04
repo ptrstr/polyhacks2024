@@ -17,7 +17,7 @@ export function GameScreen() {
             content = <CameraBackground step={step} setStep={setStep} />
             break;
         case 2: // PoGo scene
-            content = <BestGameEver step={step} setStep={setStep} />;
+            content = <BestGameEver setStep={setStep} />;
             break;
     }
 

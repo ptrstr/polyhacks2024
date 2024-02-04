@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { StyleSheet, Text, TouchableOpacity, View, Image } from 'react-native';
 import { Button } from 'react-native-paper';
 import { useRef } from 'react';
-import images from '../images';
+import { images } from '../images';
 
 export function CameraBackground({ step, setStep }) {
     const [type, setType] = useState(CameraType.back);

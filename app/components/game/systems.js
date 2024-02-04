@@ -73,10 +73,16 @@ export const BagCheck = (entities) => {
     return entities;
 }
 
-export const Catcher = (entities) => {
-    if (!entities[IDS.BAG]) {
-        entities[IDS.BALL].visible = true;
-    }
+export const CatcherFn = (setStep) => {
+    return (entities) => {
+        if (!entities[IDS.BAG]) {
+            entities[IDS.BALL].visible = true;
 
-    return entities;
-};
+            setTimeout(() => {
+                setStep(0);
+            }, 2000);
+        }
+
+        return entities;
+    }
+}

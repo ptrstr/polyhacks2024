@@ -1,15 +1,20 @@
 import React, { PureComponent } from "react";
-import { StyleSheet, View, Image } from "react-native";
-import images from "../../images";
+import { StyleSheet, View, Image, ImageBackground } from "react-native";
+import {images, monsters} from "../../images";
 
 class TrashMonster extends PureComponent {
   render() {
     let radius = 250;
     const x = this.props.position[0] - radius / 2;
     const y = this.props.position[1] - radius / 2;
+
+    let img = monsters[Math.floor(Math.random()*monsters.length)];
+
     return (
       <View style={[styles.monster, { left: x, top: y }]}>
-        <Image source={images['monster']} style={{ width: radius, height: radius }} />
+        <ImageBackground source={img} style={{ width: radius, height: radius, flex: 1, alignItems: 'center', justifyContent: 'flex-end' }}>
+          <Image source={images.trash} style={{ marginLeft: 40, width: radius * 1, height: radius / 2, objectFit: "fill" }} />
+        </ImageBackground>
       </View>
     );
   }
@@ -95,7 +100,7 @@ export class Catcher extends PureComponent {
     const y = this.props.position[1] - radius / 2;
     return (
       <View style={[styles.monster, { left: x, top: y }]}>
-        <Image source={images.pokeball} style={{ width: radius, height: radius, opacity: this.props.visible ? '100%' : '0%' }} />
+        <Image source={images.pokeball} style={{ width: radius, height: radius, opacity: this.props.visible ? 1.0 : 0.0 }} />
       </View>
     );
   }
