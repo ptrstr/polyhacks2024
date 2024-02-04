@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, View, Text } from 'react-native';
-import { ActivityIndicator } from 'react-native-paper';
+import { ActivityIndicator, IconButton } from 'react-native-paper';
 import MapView, { UrlTile, Marker, PROVIDER_GOOGLE } from 'react-native-maps';
 import * as Location from 'expo-location';
 import { Loader } from './Loader';
@@ -49,8 +49,8 @@ export function MapScreen({ step, setStep }) {
                 region={coords}
                 showsUserLocation={true}
                 showsBuildings={true}
-                scrollEnabled={false}
-                scrollDuringRotateOrZoomEnabled={false}
+                // scrollEnabled={false}
+                // scrollDuringRotateOrZoomEnabled={false}
                 mapType='terrain'
                 followsUserLocation={true}
                 onRegionChange={onRegionChange}
@@ -70,15 +70,17 @@ export function MapScreen({ step, setStep }) {
                             longitude: marker.Collecte_Longitude,
                         }}
                         title={marker.Collecte_Nom}
+                        image={require('../assets/pokestop.png')}
+                        opacity={0.7}
                         description={`${marker.Collecte_Adresse}, ${marker.Collecte_Ville}`} />
                 ))}
             </MapView>
             <IconButton
                 icon="camera"
-                iconColor={MD3Colors.error50}
-                size={20}
+                size={40}
+                mode='contained'
                 style={styles.button}
-                onPress={() => console.log('Pressed')} />
+                onPress={() => setStep(2)} />
         </>
     );
 }
@@ -90,6 +92,7 @@ const styles = StyleSheet.create({
     },
     button: {
         position: "absolute",
-        bottom: 50
+        bottom: 25,
+        right: 25
     }
 });

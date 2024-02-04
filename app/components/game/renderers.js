@@ -16,6 +16,11 @@ class TrashMonster extends PureComponent {
 }
 
 class Bag extends PureComponent {
+  constructor(props) {
+    super(props);
+    this.state = {velocity: props.initialVelocity || [0, 0]};
+  }
+
   render() {
     let radius = 200;
     const x = this.props.position[0] - radius / 2;
@@ -28,6 +33,46 @@ class Bag extends PureComponent {
   }
 }
 
+Bag.defaultProps = {
+  velocity: [0, 0],
+  doneMove: false
+}
+
+class Radius extends PureComponent {
+  constructor(props) {
+    super(props);
+    this.state = {radius: props.radius};
+  }
+
+  render() {
+    const x = this.props.position[0] - this.props.radius;
+    const y = this.props.position[1] - this.props.radius;
+
+    return (
+      <View
+        style={
+          [
+            {
+              borderColor: "#CCC",
+              borderWidth: 4,
+              borderRadius: this.props.radius * 2,
+              width: this.props.radius * 2,
+              height: this.props.radius * 2,
+              backgroundColor: "pink",
+              position: "absolute",
+              left: x,
+              top: y
+            }
+          ]
+        } />
+    );
+  }
+}
+
+Radius.defaultProps = {
+  radius: 20
+}
+
 const styles = StyleSheet.create({
   monster: {
     position: "absolute"
@@ -37,4 +82,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export { TrashMonster, Bag };
+export { TrashMonster, Bag, Radius };
