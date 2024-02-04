@@ -1,5 +1,5 @@
 import { Dimensions } from "react-native";
-import { IDS } from ".";
+import { IDS } from "./ent";
 
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
@@ -49,6 +49,9 @@ export const MoveBag = (entities, { touches }) => {
 };
 
 export const RadiusAdjust = (entities) => {
+    if (!entities[IDS.BAG])
+        return entities;
+
     entities[IDS.RADIUS].radius = Math.sqrt(entities[IDS.BAG].velocity[0] ** 2 + entities[IDS.BAG].velocity[1] ** 2);
 
     return entities;
@@ -58,6 +61,9 @@ export const BagCheck = (entities) => {
     let bag = entities[IDS.BAG];
     let monster = entities[IDS.TRASH];
 
+    if (!bag)
+        return entities;
+
     const distance = Math.sqrt((bag.position[0] - monster.position[0]) ** 2 + (bag.position[1] - monster.position[1]) ** 2);
 
     if (distance <= (250 + 200) / 2) {
@@ -66,3 +72,12 @@ export const BagCheck = (entities) => {
 
     return entities;
 }
+
+export const Catcher = (entities) => {
+    if (entities[IDS.BAG])
+        return entities;
+
+    entities[IDS.TRASH + 1] = Catcher({x: entities[TRASH].position[0], y: entities[TRASH].position[1]});
+
+    return entities;
+};

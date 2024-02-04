@@ -27,7 +27,7 @@ class Bag extends PureComponent {
     const y = this.props.position[1] - radius / 2;
     return (
       <View style={[styles.monster, { left: x, top: y }]}>
-        <Image source={images['bag']} style={{ width: radius, height: radius }} />
+        <Image source={images.bag} style={{ width: radius, height: radius }} />
       </View>
     );
   }
@@ -73,12 +73,39 @@ Radius.defaultProps = {
   radius: 20
 }
 
+export class BgEnt extends PureComponent {
+  render() {
+    return (
+      <View style={[{ width: '100%', height: 'auto' }]}>
+        <Image source={{uri: images.bg}} style={{ width: '100%', height: 1000 }} />
+      </View>
+    );
+  }
+}
+
+export class Catcher extends PureComponent {
+  render() {
+    let radius = 300;
+    const x = this.props.position[0] - radius / 2;
+    const y = this.props.position[1] - radius / 2;
+    return (
+      <View style={[styles.monster, { left: x, top: y }]}>
+        <Image source={images.pokeball} style={{ width: radius, height: radius }} />
+      </View>
+    );
+  }
+}
+
 const styles = StyleSheet.create({
   monster: {
     position: "absolute"
   },
   bag: {
     position: "absolute"
+  },
+  bg: {
+    width: '100%',
+    height: '100%'
   }
 });
 

@@ -14,10 +14,10 @@ export function GameScreen() {
             content = <MapScreen step={step} setStep={setStep} />;
             break;
         case 1: // Camera screen
-            content = <CameraBackground />
+            content = <CameraBackground step={step} setStep={setStep} />
             break;
         case 2: // PoGo scene
-            content = <BestGameEver />;
+            content = <BestGameEver step={step} setStep={setStep} />;
             break;
     }
 

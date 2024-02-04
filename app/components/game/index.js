@@ -1,17 +1,13 @@
 import React, { PureComponent } from "react";
 import { AppRegistry, StyleSheet, StatusBar, Dimensions, View } from "react-native";
 import { GameEngine } from "react-native-game-engine";
-import { TrashMonster, Bag, Radius } from "./renderers";
-import { MoveBag, RadiusAdjust, BagCheck } from "./systems"
+import { TrashMonster, Bag, Radius, BgEnt } from "./renderers";
+import { MoveBag, RadiusAdjust, BagCheck, Catcher } from "./systems"
+import {ImageBackground} from 'react-native';
+import { IDS } from "./ent";
 
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
-
-export const IDS = {
-  BAG: 2,
-  TRASH: 1,
-  RADIUS: 0
-}
 
 export default class BestGameEver extends PureComponent {
   constructor() {
@@ -21,15 +17,18 @@ export default class BestGameEver extends PureComponent {
   render() {
     return (
       <View>
-        <GameEngine
-          style={styles.container}
-          systems={[MoveBag, RadiusAdjust, BagCheck]}
-          entities={{
-            0 : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Radius radius={20} />},
-            2 : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Bag />},
-            1 : { position: [windowWidth / 2,  windowHeight / 3], renderer: <TrashMonster />},
-          }}>
-        </GameEngine>
+        <ImageBackground source={require('../../assets/bag.png')} resizeMode="cover">
+          <GameEngine
+            style={styles.container}
+            systems={[MoveBag, RadiusAdjust, BagCheck, Catcher]}
+            entities={{
+              0 : { position: [0, 0], renderer: <BgEnt />},
+              1 : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Radius radius={20} />},
+              3 : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Bag />},
+              2 : { position: [windowWidth / 2,  windowHeight / 3], renderer: <TrashMonster />},
+            }}>
+          </GameEngine>
+        </ImageBackground>
       </View>
     );
   }
@@ -37,8 +36,7 @@ export default class BestGameEver extends PureComponent {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: "#00000000"
+    flex: 1
   }
 });
 

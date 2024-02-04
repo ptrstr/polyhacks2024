@@ -80,7 +80,7 @@ export function MapScreen({ step, setStep }) {
                 size={40}
                 mode='contained'
                 style={styles.button}
-                onPress={() => setStep(2)} />
+                onPress={() => setStep(1)} />
         </>
     );
 }

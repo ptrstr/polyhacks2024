@@ -1,30 +1,29 @@
 import { Camera, CameraType } from 'expo-camera';
 import { useState } from 'react';
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, View, Image } from 'react-native';
 import { Button } from 'react-native-paper';
 import { useRef } from 'react';
+import images from '../images';
 
-export function CameraBackground() {
+export function CameraBackground({ step, setStep }) {
     const [type, setType] = useState(CameraType.back);
     const [permission, requestPermission] = Camera.useCameraPermissions();
     const [photoUri, setPhotoUri] = useState('');
     const [binMode, setBinMode] = useState('');
     const camera = useRef();
 
-    takePicture = () => {
-        camera.current.takePictureAsync({ onPictureSaved: this.onPictureSaved });
-     };
-  
-    onPictureSaved = (photo) => {
-        setPhotoUri(photo.uri);
-        alert('Photo Made !');
-    } 
+    takePicture = async () => {
+        let pic = await camera.current.takePictureAsync(null);
+        images.bg = pic.uri;
+        setPhotoUri(images.bg);
+        setStep(2);
+    };
 
     requestPermission();
 
     return (
         <View style={styles.container}>
-            <Camera style={styles.camera} type={this.s} ref={(ref) => { camera.current = ref }} >
+            <Camera style={styles.camera} ratio={'1:1'} type={this.s} ref={(ref) => { camera.current = ref }} >
                 <View style={styles.buttonContainer}>
                 <TouchableOpacity style={styles.captureButton} onPress={this.takePicture} >
                     <Text style={styles.text}>Confirm</Text>
@@ -45,6 +44,7 @@ export function CameraBackground() {
                     Electronics
                 </Button>
                 <Text style={styles.mode}>{binMode}</Text>
+                {photoUri && <Image source={{uri: photoUri}} style={{width: '100%', height: '100%'}} />}
             </View>
         </View>
     );
