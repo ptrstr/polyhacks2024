@@ -55,7 +55,7 @@ export default function App() {
             }}
           />
           <Tab.Screen
-            name="Questionnaire"
+            name="Dailies"
             component={QuestionnaireScreen}
             options={{
               tabBarIcon: ({ color }) => (
