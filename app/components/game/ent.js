@@ -1,5 +1,6 @@
 export const IDS = {
-    BAG: 3,
-    TRASH: 2,
-    RADIUS: 1
+    BAG: 'bag',
+    TRASH: 'trash',
+    RADIUS: 'rad',
+    BALL: 'ball'
 }

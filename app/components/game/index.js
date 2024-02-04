@@ -22,10 +22,11 @@ export default class BestGameEver extends PureComponent {
             style={styles.container}
             systems={[MoveBag, RadiusAdjust, BagCheck, Catcher]}
             entities={{
-              0 : { position: [0, 0], renderer: <BgEnt />},
-              1 : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Radius radius={20} />},
-              3 : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Bag />},
-              2 : { position: [windowWidth / 2,  windowHeight / 3], renderer: <TrashMonster />},
+              'bg' : { position: [0, 0], renderer: <BgEnt />},
+              'rad' : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Radius radius={20} />},
+              'bag' : { position: [windowWidth / 2, windowHeight * 2 / 3], renderer: <Bag />},
+              'trash' : { position: [windowWidth / 2,  windowHeight / 3], renderer: <TrashMonster />},
+              'ball': { position: [windowWidth / 2,  windowHeight / 3], renderer: <Catcher /> }
             }}>
           </GameEngine>
         </ImageBackground>

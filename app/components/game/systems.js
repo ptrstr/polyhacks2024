@@ -77,7 +77,6 @@ export const Catcher = (entities) => {
     if (entities[IDS.BAG])
         return entities;
 
-    entities[IDS.TRASH + 1] = Catcher({x: entities[TRASH].position[0], y: entities[TRASH].position[1]});
 
     return entities;
 };
