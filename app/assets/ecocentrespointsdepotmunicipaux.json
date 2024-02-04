@@ -1,0 +1,3377 @@
+[
+    {
+        "index": 0,
+        "Collecte_Nom": "\u00c9cocentre - Arrondissement de Beauport",
+        "Collecte_Adresse": "425, boulevard Raymond",
+        "Collecte_Ville": "Qu\u00e9bec",
+        "Collecte_Codepostal": "G1C 5B4",
+        "Collecte_Longitude": -71.1832628224,
+        "Collecte_Latitude": 46.8832934289
+    },
+    {
+        "index": 1,
+        "Collecte_Nom": "\u00c9cocentre - Arrondissement des Rivi\u00e8res",
+        "Collecte_Adresse": "1700,\u00a0rue\u00a0Provinciale",
+        "Collecte_Ville": "Qu\u00e9bec ",
+        "Collecte_Codepostal": "G1N 4A2",
+        "Collecte_Longitude": -71.2721546723,
+        "Collecte_Latitude": 46.8016260554
+    },
+    {
+        "index": 2,
+        "Collecte_Nom": "\u00c9cocentre - Bon d\u00e9barras",
+        "Collecte_Adresse": "2456, route 125",
+        "Collecte_Ville": "Sainte-Julienne ",
+        "Collecte_Codepostal": "J0K 2T0",
+        "Collecte_Longitude": -73.7207021393,
+        "Collecte_Latitude": 45.9889778768
+    },
+    {
+        "index": 3,
+        "Collecte_Nom": "\u00c9cocentre - Centre de gestion des mati\u00e8res r\u00e9siduelles (CGMR)",
+        "Collecte_Adresse": "1300, route 199",
+        "Collecte_Ville": "\u00celes-de-la-Madeleine",
+        "Collecte_Codepostal": "G4T 5B5",
+        "Collecte_Longitude": -61.7501896643,
+        "Collecte_Latitude": 47.4458541485
+    },
+    {
+        "index": 4,
+        "Collecte_Nom": "\u00c9cocentre - Centre de multirecyclage de Sainte-Th\u00e9r\u00e8se",
+        "Collecte_Adresse": "105, rue Blanchard",
+        "Collecte_Ville": "Sainte-Th\u00e9r\u00e8se ",
+        "Collecte_Codepostal": "J7E 4N4",
+        "Collecte_Longitude": -73.8409130175,
+        "Collecte_Latitude": 45.6347239147
+    },
+    {
+        "index": 5,
+        "Collecte_Nom": "\u00c9cocentre du boulevard de la Carri\u00e8re ",
+        "Collecte_Adresse": "860, boulevard de la Carri\u00e8re",
+        "Collecte_Ville": "Gatineau ",
+        "Collecte_Codepostal": "J8X 3Y9",
+        "Collecte_Longitude": -75.7284596251,
+        "Collecte_Latitude": 45.4559954252
+    },
+    {
+        "index": 6,
+        "Collecte_Nom": "\u00c9cocentre - Centre de transbordement du Havre-Aubert",
+        "Collecte_Adresse": "280, ch. Du Bassin",
+        "Collecte_Ville": "\u00celes-de-la-Madeleine",
+        "Collecte_Codepostal": "G4T 0B7",
+        "Collecte_Longitude": -61.9145505539,
+        "Collecte_Latitude": 47.2333450585
+    },
+    {
+        "index": 7,
+        "Collecte_Nom": "\u00c9cocentre - Complexe Enviro Connexions Lt\u00e9e",
+        "Collecte_Adresse": "3779, chemin des Quarantes-Arpents",
+        "Collecte_Ville": "Terrebonne",
+        "Collecte_Codepostal": "J6V 9T6",
+        "Collecte_Longitude": -73.5344267375,
+        "Collecte_Latitude": 45.7399721179
+    },
+    {
+        "index": 8,
+        "Collecte_Nom": "\u00c9cocentre - Delage Envirosan lt\u00e9e",
+        "Collecte_Adresse": "187, chemin Industriel",
+        "Collecte_Ville": "L'Ange-Gardien ",
+        "Collecte_Codepostal": "J8L 0A9",
+        "Collecte_Longitude": -75.3998301136,
+        "Collecte_Latitude": 45.6115283793
+    },
+    {
+        "index": 9,
+        "Collecte_Nom": "\u00c9cocentre - Entreprises PAVCO",
+        "Collecte_Adresse": "180, rue Armand-Majeau Sud",
+        "Collecte_Ville": "Saint-Roch-de-l'Achigan",
+        "Collecte_Codepostal": "J0K 3H0",
+        "Collecte_Longitude": -73.5977144426,
+        "Collecte_Latitude": 45.8349001987
+    },
+    {
+        "index": 10,
+        "Collecte_Nom": "\u00c9cocentre - Matrec",
+        "Collecte_Adresse": "184, 181e rue  ",
+        "Collecte_Ville": "Beauceville",
+        "Collecte_Codepostal": "G5X 2S9",
+        "Collecte_Longitude": -70.7850003331,
+        "Collecte_Latitude": 46.228024542
+    },
+    {
+        "index": 11,
+        "Collecte_Nom": "\u00c9cocentre - M\u00e9limax",
+        "Collecte_Adresse": "224, boulevard Industriel",
+        "Collecte_Ville": "Ch\u00e2teauguay ",
+        "Collecte_Codepostal": "J6J 4Z2",
+        "Collecte_Longitude": -73.6893760096,
+        "Collecte_Latitude": 45.3524646353
+    },
+    {
+        "index": 12,
+        "Collecte_Nom": "\u00c9cocentre - Recyclage Fr\u00e9d\u00e9rick Morin",
+        "Collecte_Adresse": "1752, rue Saint-Cl\u00e9ophas",
+        "Collecte_Ville": "Saint-Gabriel-de-Brandon",
+        "Collecte_Codepostal": "J0K 2N0",
+        "Collecte_Longitude": -73.3789233461,
+        "Collecte_Latitude": 46.2830895959
+    },
+    {
+        "index": 13,
+        "Collecte_Nom": "\u00c9cocentre de Cowansville",
+        "Collecte_Adresse": "2500, rang Saint-Joseph",
+        "Collecte_Ville": "Cowansville",
+        "Collecte_Codepostal": "J2K 3G6",
+        "Collecte_Longitude": -72.8103877419,
+        "Collecte_Latitude": 45.1866521481
+    },
+    {
+        "index": 14,
+        "Collecte_Nom": "\u00c9cocentre - R\u00e9gie Intermunicipale du Comt\u00e9 de Beauce-Sud",
+        "Collecte_Adresse": "695, rang St-Joseph",
+        "Collecte_Ville": "Saint-C\u00f4me-Lini\u00e8re",
+        "Collecte_Codepostal": "G0M 1J0",
+        "Collecte_Longitude": -70.5467162687,
+        "Collecte_Latitude": 46.0880865119
+    },
+    {
+        "index": 15,
+        "Collecte_Nom": "\u00c9cocentre - Ressource de r\u00e9insertion Le Phare",
+        "Collecte_Adresse": "99, boulevard du Portage-des-Mousses",
+        "Collecte_Ville": "Port-Cartier",
+        "Collecte_Codepostal": "G5B 1C9",
+        "Collecte_Longitude": -66.848706207,
+        "Collecte_Latitude": 50.0337424321
+    },
+    {
+        "index": 16,
+        "Collecte_Nom": "\u00c9cocentre - Sanitaire M\u00e9gantic",
+        "Collecte_Adresse": "9109, route 204",
+        "Collecte_Ville": "Frontenac",
+        "Collecte_Codepostal": "G6B 2S1",
+        "Collecte_Longitude": -70.7798364739,
+        "Collecte_Latitude": 45.6092010704
+    },
+    {
+        "index": 17,
+        "Collecte_Nom": "\u00c9cocentre - Secteur de Saint-Canut",
+        "Collecte_Adresse": "6000, route Sir Wilfrid-Laurier - route 158",
+        "Collecte_Ville": "Mirabel",
+        "Collecte_Codepostal": "J7N 2Z8",
+        "Collecte_Longitude": -74.149835336,
+        "Collecte_Latitude": 45.6854825176
+    },
+    {
+        "index": 18,
+        "Collecte_Nom": "\u00c9cocentre - Secteur de Sainte-Scholastique",
+        "Collecte_Adresse": "9825, rue Saint-Vincent",
+        "Collecte_Ville": "Mirabel",
+        "Collecte_Codepostal": "J7N 2Y5",
+        "Collecte_Longitude": -74.0956719492,
+        "Collecte_Latitude": 45.6495615933
+    },
+    {
+        "index": 19,
+        "Collecte_Nom": "\u00c9cocentre - Services Sanitaires Denis Fortier",
+        "Collecte_Adresse": "3878, boulevard Frontenac Est",
+        "Collecte_Ville": "Thetford Mines",
+        "Collecte_Codepostal": "G6H 4G2",
+        "Collecte_Longitude": -71.2460537859,
+        "Collecte_Latitude": 46.1245954722
+    },
+    {
+        "index": 20,
+        "Collecte_Nom": "\u00c9cocentre Acadie - Arrondissement d\u2019Ahuntsic-Cartierville",
+        "Collecte_Adresse": "1200, boulevard Henri-Bourassa Ouest",
+        "Collecte_Ville": "Montr\u00e9al ",
+        "Collecte_Codepostal": "H3M 3G1",
+        "Collecte_Longitude": -73.6750496694,
+        "Collecte_Latitude": 45.5396149689
+    },
+    {
+        "index": 21,
+        "Collecte_Nom": "\u00c9cocentre C\u00f4te-des-Neiges - Arrondissement de C\u00f4te-des-Neiges-Notre-Dame-de-Gr\u00e2ce",
+        "Collecte_Adresse": "6925, chemin de la C\u00f4te-des-Neiges",
+        "Collecte_Ville": "Montr\u00e9al ",
+        "Collecte_Codepostal": "H3S 2B6",
+        "Collecte_Longitude": -73.6383317453,
+        "Collecte_Latitude": 45.5057234707
+    },
+    {
+        "index": 22,
+        "Collecte_Nom": "\u00c9cocentre d'Abitibi-Ouest",
+        "Collecte_Adresse": "15, boulevard Industriel\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Collecte_Ville": "La Sarre ",
+        "Collecte_Codepostal": "J9Z 2X2",
+        "Collecte_Longitude": -79.1694645436,
+        "Collecte_Latitude": 48.7815905479
+    },
+    {
+        "index": 23,
+        "Collecte_Nom": "\u00c9cocentre d'Acton Vale",
+        "Collecte_Adresse": "68, rue No\u00ebl-Lecomte",
+        "Collecte_Ville": "Acton Vale ",
+        "Collecte_Codepostal": "J0H 1A0",
+        "Collecte_Longitude": -72.5731223307,
+        "Collecte_Latitude": 45.6330379657
+    },
+    {
+        "index": 24,
+        "Collecte_Nom": "\u00c9cocentre d'Alma",
+        "Collecte_Adresse": "3521, avenue du Pont Nord",
+        "Collecte_Ville": "Alma ",
+        "Collecte_Codepostal": "G8E 1S5",
+        "Collecte_Longitude": -71.6147770024,
+        "Collecte_Latitude": 48.6131884757
+    },
+    {
+        "index": 25,
+        "Collecte_Nom": "\u00c9cocentre d'Amherst",
+        "Collecte_Adresse": "1323, route 323 sud",
+        "Collecte_Ville": "Amherst",
+        "Collecte_Codepostal": "J0T 2L0",
+        "Collecte_Longitude": -74.7706372878,
+        "Collecte_Latitude": 45.9997431206
+    },
+    {
+        "index": 26,
+        "Collecte_Nom": "\u00c9cocentre d'Armagh",
+        "Collecte_Adresse": "116, rue du Couvent",
+        "Collecte_Ville": "Armagh",
+        "Collecte_Codepostal": "G0R 1A0",
+        "Collecte_Longitude": -70.5832181711,
+        "Collecte_Latitude": 46.7420982135
+    },
+    {
+        "index": 27,
+        "Collecte_Nom": "\u00c9cocentre d'Asbestos",
+        "Collecte_Adresse": "404, rue du Roi",
+        "Collecte_Ville": "Asbestos ",
+        "Collecte_Codepostal": "J1T 1S9",
+        "Collecte_Longitude": -71.9270303987,
+        "Collecte_Latitude": 45.7799736228
+    },
+    {
+        "index": 28,
+        "Collecte_Nom": "\u00c9cocentre de Baie-Comeau",
+        "Collecte_Adresse": "800, avenue L\u00e9onard-E.-Schlemm",
+        "Collecte_Ville": "Baie-Comeau ",
+        "Collecte_Codepostal": "G4Z 3B7",
+        "Collecte_Longitude": -68.2276369295,
+        "Collecte_Latitude": 49.2107403237
+    },
+    {
+        "index": 29,
+        "Collecte_Nom": "\u00c9cocentre de Beauharnois",
+        "Collecte_Adresse": "50, rue des Hauts-Fourneaux",
+        "Collecte_Ville": "Beauharnois ",
+        "Collecte_Codepostal": "J6N 3S3",
+        "Collecte_Longitude": -73.8726416305,
+        "Collecte_Latitude": 45.3134951645
+    },
+    {
+        "index": 30,
+        "Collecte_Nom": "\u00c9cocentre de Beaumont",
+        "Collecte_Adresse": "470, route 279 ",
+        "Collecte_Ville": "Beaumont",
+        "Collecte_Codepostal": "G0R 1C0",
+        "Collecte_Longitude": -70.9659686633,
+        "Collecte_Latitude": 46.8454717815
+    },
+    {
+        "index": 31,
+        "Collecte_Nom": "\u00c9cocentre de Beaupr\u00e9 Saint-Joachim",
+        "Collecte_Adresse": "10, rue Industrielle",
+        "Collecte_Ville": "Beaupr\u00e9 ",
+        "Collecte_Codepostal": "G0A 1E0",
+        "Collecte_Longitude": -70.8886364889,
+        "Collecte_Latitude": 47.0408697288
+    },
+    {
+        "index": 32,
+        "Collecte_Nom": "\u00c9cocentre de B\u00e9cancour",
+        "Collecte_Adresse": "18055, rue Gauthier",
+        "Collecte_Ville": "B\u00e9cancour",
+        "Collecte_Codepostal": "G9H 1C1",
+        "Collecte_Longitude": -72.5465495831,
+        "Collecte_Latitude": 46.2848476851
+    },
+    {
+        "index": 33,
+        "Collecte_Nom": "\u00c9cocentre de Bedford",
+        "Collecte_Adresse": "100, rue Champagnat",
+        "Collecte_Ville": "Bedford ",
+        "Collecte_Codepostal": "J0J 1A0",
+        "Collecte_Longitude": -72.9967152263,
+        "Collecte_Latitude": 45.1246211513
+    },
+    {
+        "index": 34,
+        "Collecte_Nom": "\u00c9cocentre de Beloeil",
+        "Collecte_Adresse": "986, rue Dupr\u00e9 ",
+        "Collecte_Ville": "Beloeil ",
+        "Collecte_Codepostal": "J3G 4A8",
+        "Collecte_Longitude": -73.2051169193,
+        "Collecte_Latitude": 45.5752839685
+    },
+    {
+        "index": 35,
+        "Collecte_Nom": "\u00c9cocentre de Boischatel",
+        "Collecte_Adresse": "345, rue des Saphirs",
+        "Collecte_Ville": "Boischatel ",
+        "Collecte_Codepostal": "G0A 1H0",
+        "Collecte_Longitude": -71.1540285349,
+        "Collecte_Latitude": 46.9264122775
+    },
+    {
+        "index": 36,
+        "Collecte_Nom": "\u00c9cocentre de Bois-des-Filion",
+        "Collecte_Adresse": "690, rue de la Sabli\u00e8re",
+        "Collecte_Ville": "Bois-des-Filion ",
+        "Collecte_Codepostal": "J6Z 4T7",
+        "Collecte_Longitude": -73.764558952,
+        "Collecte_Latitude": 45.678129679
+    },
+    {
+        "index": 37,
+        "Collecte_Nom": "\u00c9cocentre de Bromont",
+        "Collecte_Adresse": "20, rue du Pacifique Est",
+        "Collecte_Ville": "Bromont ",
+        "Collecte_Codepostal": "J2L 1J5",
+        "Collecte_Longitude": -72.6677470285,
+        "Collecte_Latitude": 45.3083796961
+    },
+    {
+        "index": 38,
+        "Collecte_Nom": "\u00c9cocentre de Buckland",
+        "Collecte_Adresse": "4340, rue Principale",
+        "Collecte_Ville": "Notre-Dame-Auxiliatrice-de-Buckland",
+        "Collecte_Codepostal": "G0R 1G0",
+        "Collecte_Longitude": -70.5438721754,
+        "Collecte_Latitude": 46.6198476517
+    },
+    {
+        "index": 39,
+        "Collecte_Nom": "\u00c9cocentre de Causapscal",
+        "Collecte_Adresse": "305, rue Cartier",
+        "Collecte_Ville": "Causapscal ",
+        "Collecte_Codepostal": "G0J 1J0",
+        "Collecte_Longitude": -67.2283450481,
+        "Collecte_Latitude": 48.3448250865
+    },
+    {
+        "index": 40,
+        "Collecte_Nom": "\u00c9cocentre de Champlain",
+        "Collecte_Adresse": "295, route Sainte-Marie",
+        "Collecte_Ville": "Champlain ",
+        "Collecte_Codepostal": "G0X 1C0",
+        "Collecte_Longitude": -72.3197366837,
+        "Collecte_Latitude": 46.4756673887
+    },
+    {
+        "index": 41,
+        "Collecte_Nom": "\u00c9cocentre de Chertsey - Compo Recycle",
+        "Collecte_Adresse": "225, rue du Progr\u00e8s",
+        "Collecte_Ville": "Chertsey",
+        "Collecte_Codepostal": "J0K 3K0",
+        "Collecte_Longitude": -73.9065251982,
+        "Collecte_Latitude": 46.0183919746
+    },
+    {
+        "index": 42,
+        "Collecte_Nom": "\u00c9cocentre de Chicoutimi-Nord",
+        "Collecte_Adresse": "2932, rue de Vimy",
+        "Collecte_Ville": "Saguenay",
+        "Collecte_Codepostal": "G7G 3N6",
+        "Collecte_Longitude": -71.080702945,
+        "Collecte_Latitude": 48.4565208792
+    },
+    {
+        "index": 43,
+        "Collecte_Nom": "\u00c9cocentre de Chicoutimi-Sud",
+        "Collecte_Adresse": "3333, boulevard Talbot",
+        "Collecte_Ville": "Saguenay",
+        "Collecte_Codepostal": "G7H 5B1",
+        "Collecte_Longitude": -71.0963405553,
+        "Collecte_Latitude": 48.3667348597
+    },
+    {
+        "index": 44,
+        "Collecte_Nom": "\u00c9cocentre de Clermont",
+        "Collecte_Adresse": "119, chemin Snigole",
+        "Collecte_Ville": "Clermont ",
+        "Collecte_Codepostal": "G4A 1B1",
+        "Collecte_Longitude": -70.2776337788,
+        "Collecte_Latitude": 47.7421698582
+    },
+    {
+        "index": 45,
+        "Collecte_Nom": "\u00c9cocentre de Cloridorme",
+        "Collecte_Adresse": "24, route de la Colonie",
+        "Collecte_Ville": "Cloridorme",
+        "Collecte_Codepostal": "G0E 1G0",
+        "Collecte_Longitude": -64.8171754564,
+        "Collecte_Latitude": 49.1686556331
+    },
+    {
+        "index": 46,
+        "Collecte_Nom": "\u00c9cocentre de Coaticook",
+        "Collecte_Adresse": "1095, du chemin Bilodeau ",
+        "Collecte_Ville": "Coaticook",
+        "Collecte_Codepostal": "J1A 2S4",
+        "Collecte_Longitude": -71.8566409088,
+        "Collecte_Latitude": 45.0909108178
+    },
+    {
+        "index": 47,
+        "Collecte_Nom": "\u00c9cocentre de D\u00e9gelis",
+        "Collecte_Adresse": "297, route 295",
+        "Collecte_Ville": "D\u00e9gelis ",
+        "Collecte_Codepostal": "G5T 1A2",
+        "Collecte_Longitude": -68.6393059551,
+        "Collecte_Latitude": 47.5668918218
+    },
+    {
+        "index": 48,
+        "Collecte_Nom": "\u00c9cocentre de Disraeli",
+        "Collecte_Adresse": "60, rue Industrielle",
+        "Collecte_Ville": "Disraeli",
+        "Collecte_Codepostal": "G0N 1E0",
+        "Collecte_Longitude": -71.368604678,
+        "Collecte_Latitude": 45.8935370088
+    },
+    {
+        "index": 49,
+        "Collecte_Nom": "\u00c9cocentre de Dolbeau-Mistassini",
+        "Collecte_Adresse": "1001, 2e avenue ",
+        "Collecte_Ville": "Dolbeau-Mistassini ",
+        "Collecte_Codepostal": "G8L 1V3",
+        "Collecte_Longitude": -72.2694286678,
+        "Collecte_Latitude": 48.8545834505
+    },
+    {
+        "index": 50,
+        "Collecte_Nom": "\u00c9cocentre de Drummond",
+        "Collecte_Adresse": "5620, rue Saint-Roch Sud",
+        "Collecte_Ville": "Drummondville ",
+        "Collecte_Codepostal": "J2B 6V4",
+        "Collecte_Longitude": -72.5371302264,
+        "Collecte_Latitude": 45.8950795052
+    },
+    {
+        "index": 51,
+        "Collecte_Nom": "\u00c9cocentre de Duhamel",
+        "Collecte_Adresse": "3605, chemin du Lac Gagnon Est",
+        "Collecte_Ville": "Duhamel",
+        "Collecte_Codepostal": "J0V 1G0",
+        "Collecte_Longitude": -75.0885719954,
+        "Collecte_Latitude": 46.0566851082
+    },
+    {
+        "index": 52,
+        "Collecte_Nom": "\u00c9cocentre de Farnham",
+        "Collecte_Adresse": "1180, boulevard Industriel",
+        "Collecte_Ville": "Farnham ",
+        "Collecte_Codepostal": "J2N 3B5",
+        "Collecte_Longitude": -72.9636770622,
+        "Collecte_Latitude": 45.2903902887
+    },
+    {
+        "index": 53,
+        "Collecte_Nom": "\u00c9cocentre de Fermont",
+        "Collecte_Adresse": "2, rue du Camp",
+        "Collecte_Ville": "Fermont ",
+        "Collecte_Codepostal": "G0G 1J0",
+        "Collecte_Longitude": -67.0981196617,
+        "Collecte_Latitude": 52.8024877594
+    },
+    {
+        "index": 54,
+        "Collecte_Nom": "\u00c9cocentre de Gascons",
+        "Collecte_Adresse": "232, route Morin Nord ",
+        "Collecte_Ville": "Gascons",
+        "Collecte_Codepostal": "G0C 1P0",
+        "Collecte_Longitude": -64.8805369654,
+        "Collecte_Latitude": 48.1910187106
+    },
+    {
+        "index": 55,
+        "Collecte_Nom": "D\u00e9chetterie de Gasp\u00e9",
+        "Collecte_Adresse": "1050 mont\u00e9e Wakeham",
+        "Collecte_Ville": "Gasp\u00e9",
+        "Collecte_Codepostal": "G4X 2A2",
+        "Collecte_Longitude": -64.6504272253,
+        "Collecte_Latitude": 48.8428018287
+    },
+    {
+        "index": 56,
+        "Collecte_Nom": "\u00c9cocentre satellite de Godbout",
+        "Collecte_Adresse": "122, rue Saint-R\u00e9gis",
+        "Collecte_Ville": "Godbout ",
+        "Collecte_Codepostal": "G0H 1G0",
+        "Collecte_Longitude": -67.5897907819,
+        "Collecte_Latitude": 49.3259582006
+    },
+    {
+        "index": 57,
+        "Collecte_Nom": "\u00c9cocentre \u00e0 Granby",
+        "Collecte_Adresse": "1080, rue Andr\u00e9-Lin\u00e9",
+        "Collecte_Ville": "Granby ",
+        "Collecte_Codepostal": "J2J 1J9",
+        "Collecte_Longitude": -72.7757178664,
+        "Collecte_Latitude": 45.3809238135
+    },
+    {
+        "index": 58,
+        "Collecte_Nom": "\u00c9cocentre de Grande All\u00e9e",
+        "Collecte_Adresse": "8005, Grande All\u00e9e",
+        "Collecte_Ville": "Brossard ",
+        "Collecte_Codepostal": "J4Z 3H8",
+        "Collecte_Longitude": -73.4146985419,
+        "Collecte_Latitude": 45.4519014173
+    },
+    {
+        "index": 59,
+        "Collecte_Nom": "\u00c9cocentre de Grande-Rivi\u00e8re",
+        "Collecte_Adresse": "785, rue St-Pierre",
+        "Collecte_Ville": "Grande-Rivi\u00e8re",
+        "Collecte_Codepostal": "G0C 1W0",
+        "Collecte_Longitude": -64.5967886647,
+        "Collecte_Latitude": 48.4011465864
+    },
+    {
+        "index": 60,
+        "Collecte_Nom": "\u00c9cocentre de Grandes-Piles",
+        "Collecte_Adresse": "620, 5e avenue",
+        "Collecte_Ville": "Grandes-Piles ",
+        "Collecte_Codepostal": "G0X 1H0",
+        "Collecte_Longitude": -72.7239715408,
+        "Collecte_Latitude": 46.6876577103
+    },
+    {
+        "index": 61,
+        "Collecte_Nom": "\u00c9cocentre de Harrington",
+        "Collecte_Adresse": "2811, route 327",
+        "Collecte_Ville": "Harrington",
+        "Collecte_Codepostal": "J8G 2T1",
+        "Collecte_Longitude": -74.5480473258,
+        "Collecte_Latitude": 45.8284367734
+    },
+    {
+        "index": 62,
+        "Collecte_Nom": "\u00c9cocentre de Havre-Saint-Pierre",
+        "Collecte_Adresse": "895, rue de l'Ilm\u00e9nite",
+        "Collecte_Ville": "Havre-Saint-Pierre ",
+        "Collecte_Codepostal": "G0G 1P0",
+        "Collecte_Longitude": -63.609423777,
+        "Collecte_Latitude": 50.2517070392
+    },
+    {
+        "index": 63,
+        "Collecte_Nom": "\u00c9cocentre de H\u00e9bertville",
+        "Collecte_Adresse": "100, rue Jean-F\u00e9lix Langlais",
+        "Collecte_Ville": "H\u00e9bertville ",
+        "Collecte_Codepostal": "G0W 1T0",
+        "Collecte_Longitude": -71.6674914043,
+        "Collecte_Latitude": 48.4476504468
+    },
+    {
+        "index": 64,
+        "Collecte_Nom": "\u00c9cocentre de H\u00eatri\u00e8re - Arrondissement de Sainte-Foy\u2013Sillery\u2013Cap-Rouge",
+        "Collecte_Adresse": "3381,\u00a0rue\u00a0de\u00a0l'H\u00eatri\u00e8re",
+        "Collecte_Ville": "Qu\u00e9bec ",
+        "Collecte_Codepostal": "G3A 0M2",
+        "Collecte_Longitude": -71.3734868953,
+        "Collecte_Latitude": 46.7624196413
+    },
+    {
+        "index": 65,
+        "Collecte_Nom": "\u00c9cocentre de Honfleur",
+        "Collecte_Adresse": "336, rue St-Jean",
+        "Collecte_Ville": "Honfleur",
+        "Collecte_Codepostal": "G0R 1N0",
+        "Collecte_Longitude": -70.8822136271,
+        "Collecte_Latitude": 46.6555371531
+    },
+    {
+        "index": 66,
+        "Collecte_Nom": "\u00c9cocentre de Huberdeau",
+        "Collecte_Adresse": "110, chemin de la Rouge",
+        "Collecte_Ville": "Huberdeau",
+        "Collecte_Codepostal": "J0T 1G0",
+        "Collecte_Longitude": -74.6370412143,
+        "Collecte_Latitude": 45.9924152014
+    },
+    {
+        "index": 67,
+        "Collecte_Nom": "\u00c9cocentre de Jean-Talon - Arrondissement des Rivi\u00e8res (Matrec)",
+        "Collecte_Adresse": "1700,\u00a0boulevard Jean-Talon Ouest",
+        "Collecte_Ville": "Qu\u00e9bec ",
+        "Collecte_Codepostal": "G2K 2L8",
+        "Collecte_Longitude": -71.3066449648,
+        "Collecte_Latitude": 46.865170853
+    },
+    {
+        "index": 68,
+        "Collecte_Nom": "\u00c9cocentre de Jonqui\u00e8re",
+        "Collecte_Adresse": "2330, rue de la M\u00e9tallurgie",
+        "Collecte_Ville": "Saguenay",
+        "Collecte_Codepostal": "G7X 0B7",
+        "Collecte_Longitude": -71.2295961181,
+        "Collecte_Latitude": 48.4086640346
+    },
+    {
+        "index": 69,
+        "Collecte_Nom": "\u00c9cocentre de l\u2019Isle-aux-Coudres",
+        "Collecte_Adresse": "51, chemin de la Traverse",
+        "Collecte_Ville": "L'Isle-aux-Coudres ",
+        "Collecte_Codepostal": "G0A 3J0",
+        "Collecte_Longitude": -70.383672978,
+        "Collecte_Latitude": 47.4178464613
+    },
+    {
+        "index": 70,
+        "Collecte_Nom": "\u00c9cocentre de La Baie",
+        "Collecte_Adresse": "223, rue Joseph-Gagn\u00e9 Sud",
+        "Collecte_Ville": "Saguenay",
+        "Collecte_Codepostal": "G7B 3P6",
+        "Collecte_Longitude": -70.8975592748,
+        "Collecte_Latitude": 48.3288277566
+    },
+    {
+        "index": 71,
+        "Collecte_Nom": "\u00c9cocentre de La Corne",
+        "Collecte_Adresse": "426, route 111",
+        "Collecte_Ville": "La Corne ",
+        "Collecte_Codepostal": "J0Y 1R0",
+        "Collecte_Longitude": -77.9993414255,
+        "Collecte_Latitude": 48.3656797848
+    },
+    {
+        "index": 72,
+        "Collecte_Nom": "\u00c9cocentre de La Durantaye",
+        "Collecte_Adresse": "453, rue Piedmont",
+        "Collecte_Ville": "La Durantaye",
+        "Collecte_Codepostal": "G0R 1W0",
+        "Collecte_Longitude": -70.8614519072,
+        "Collecte_Latitude": 46.8297853991
+    },
+    {
+        "index": 73,
+        "Collecte_Nom": "\u00c9cocentre de La Malbaie",
+        "Collecte_Adresse": "900, boulevard Kane",
+        "Collecte_Ville": "La Malbaie ",
+        "Collecte_Codepostal": "G5A 1L2",
+        "Collecte_Longitude": -70.1811557061,
+        "Collecte_Latitude": 47.6538905924
+    },
+    {
+        "index": 74,
+        "Collecte_Nom": "\u00c9cocentre de la Matap\u00e9dia (Amqui)",
+        "Collecte_Adresse": "32, Rang St-Paul, CP 5002",
+        "Collecte_Ville": "Amqui",
+        "Collecte_Codepostal": "G5J 3S5",
+        "Collecte_Longitude": -67.4350666158,
+        "Collecte_Latitude": 48.4489980762
+    },
+    {
+        "index": 75,
+        "Collecte_Nom": "\u00c9cocentre de La Minerve",
+        "Collecte_Adresse": "75, chemin La Minerve",
+        "Collecte_Ville": "La Minerve",
+        "Collecte_Codepostal": "J0T 1S0",
+        "Collecte_Longitude": -74.9176958085,
+        "Collecte_Latitude": 46.2662762975
+    },
+    {
+        "index": 76,
+        "Collecte_Nom": "\u00c9cocentre de La Motte",
+        "Collecte_Adresse": "145, c\u00f4te du Mille",
+        "Collecte_Ville": "La Motte ",
+        "Collecte_Codepostal": "J0Y 1T0",
+        "Collecte_Longitude": -78.1102296936,
+        "Collecte_Latitude": 48.32702245
+    },
+    {
+        "index": 77,
+        "Collecte_Nom": "\u00c9cocentre de la MRC de Joliette (EBI)",
+        "Collecte_Adresse": "1481, rue Raoul-Charrette",
+        "Collecte_Ville": "Joliette",
+        "Collecte_Codepostal": "J6E 8S5",
+        "Collecte_Longitude": -73.4459788592,
+        "Collecte_Latitude": 46.0051793406
+    },
+    {
+        "index": 78,
+        "Collecte_Nom": "\u00c9cocentre de la RIDL",
+        "Collecte_Adresse": "1064, rue Industrielle",
+        "Collecte_Ville": "Mont-Laurier",
+        "Collecte_Codepostal": "J9L 3V6",
+        "Collecte_Longitude": -75.4797584473,
+        "Collecte_Latitude": 46.5394977982
+    },
+    {
+        "index": 79,
+        "Collecte_Nom": "\u00c9cocentre de Blainville",
+        "Collecte_Adresse": "302, rue Omer-Desseres",
+        "Collecte_Ville": "Blainville",
+        "Collecte_Codepostal": "J7C 0A3",
+        "Collecte_Longitude": -73.8498067609,
+        "Collecte_Latitude": 45.6763411002
+    },
+    {
+        "index": 80,
+        "Collecte_Nom": "\u00c9cocentre satellite de Lac Faillon",
+        "Collecte_Adresse": "233, chemin du Lac-Faillon",
+        "Collecte_Ville": "Senneterre",
+        "Collecte_Codepostal": "J0Y 2M0",
+        "Collecte_Longitude": -76.7055087416,
+        "Collecte_Latitude": 48.3137257828
+    },
+    {
+        "index": 81,
+        "Collecte_Nom": "\u00c9cocentre de Lac-aux-Sables",
+        "Collecte_Adresse": "900, chemin de la Batiscan",
+        "Collecte_Ville": "Lac-aux-Sables ",
+        "Collecte_Codepostal": "G0X 1M0",
+        "Collecte_Longitude": -72.3932834895,
+        "Collecte_Latitude": 46.8459010296
+    },
+    {
+        "index": 82,
+        "Collecte_Nom": "\u00c9cocentre de Lachute",
+        "Collecte_Adresse": "507, rue Catherine",
+        "Collecte_Ville": "Lachute",
+        "Collecte_Codepostal": "J8H 1G9",
+        "Collecte_Longitude": -74.3288306971,
+        "Collecte_Latitude": 45.6526582336
+    },
+    {
+        "index": 83,
+        "Collecte_Nom": "\u00c9cocentre de Lac-M\u00e9gantic",
+        "Collecte_Adresse": "5138, rue Pie-XI",
+        "Collecte_Ville": "Lac-M\u00e9gantic ",
+        "Collecte_Codepostal": "G6B 2S3",
+        "Collecte_Longitude": -70.8820516472,
+        "Collecte_Latitude": 45.6047799591
+    },
+    {
+        "index": 84,
+        "Collecte_Nom": "\u00c9cocentre de Lacolle - Compo-Haut-Richelieu",
+        "Collecte_Adresse": "8, rue du Parc-Industriel",
+        "Collecte_Ville": "Lacolle ",
+        "Collecte_Codepostal": "J0J 1J0",
+        "Collecte_Longitude": -73.3676262356,
+        "Collecte_Latitude": 45.0734806688
+    },
+    {
+        "index": 85,
+        "Collecte_Nom": "\u00c9cocentre de l'A\u00e9roparc - Secteur Gatineau",
+        "Collecte_Adresse": "26, rue Pierre-M\u00e9nard",
+        "Collecte_Ville": "Gatineau",
+        "Collecte_Codepostal": "J8R 3X3",
+        "Collecte_Longitude": -75.5588772038,
+        "Collecte_Latitude": 45.5076260523
+    },
+    {
+        "index": 86,
+        "Collecte_Nom": "\u00c9cocentre de Lambton",
+        "Collecte_Adresse": "176, rang St-Michel",
+        "Collecte_Ville": "Lambton ",
+        "Collecte_Codepostal": "G0M 1H0",
+        "Collecte_Longitude": -71.1069111906,
+        "Collecte_Latitude": 45.8440448768
+    },
+    {
+        "index": 87,
+        "Collecte_Nom": "\u00c9cocentre de L'Ange-Gardien",
+        "Collecte_Adresse": "775, chemin Lucien-Lefran\u00e7ois",
+        "Collecte_Ville": "L'Ange-Gardien ",
+        "Collecte_Codepostal": "G0A 2K0",
+        "Collecte_Longitude": -71.1035772386,
+        "Collecte_Latitude": 46.9361135618
+    },
+    {
+        "index": 88,
+        "Collecte_Nom": "\u00c9cocentre de Lantier",
+        "Collecte_Adresse": "118, croissant des Trois Lacs",
+        "Collecte_Ville": "Lantier",
+        "Collecte_Codepostal": "J0T 1V0",
+        "Collecte_Longitude": -74.2518009561,
+        "Collecte_Latitude": 46.1496158684
+    },
+    {
+        "index": 89,
+        "Collecte_Nom": "\u00c9cocentre de L\u00e9vis",
+        "Collecte_Adresse": "3443, rue de Vulcain",
+        "Collecte_Ville": "L\u00e9vis",
+        "Collecte_Codepostal": "G6W 7X6",
+        "Collecte_Longitude": -71.1757873374,
+        "Collecte_Latitude": 46.7502758905
+    },
+    {
+        "index": 90,
+        "Collecte_Nom": "\u00c9cocentre de L'Islet",
+        "Collecte_Adresse": "451, boulevard Nilus-Leclerc",
+        "Collecte_Ville": "L'Islet",
+        "Collecte_Codepostal": "G0R 2C0",
+        "Collecte_Longitude": -70.3359071236,
+        "Collecte_Latitude": 47.0944097153
+    },
+    {
+        "index": 91,
+        "Collecte_Nom": "\u00c9cocentre de Louiseville",
+        "Collecte_Adresse": "760, avenue Deveault",
+        "Collecte_Ville": "Louiseville ",
+        "Collecte_Codepostal": "J5V 3A2",
+        "Collecte_Longitude": -72.9613793853,
+        "Collecte_Latitude": 46.2643686874
+    },
+    {
+        "index": 92,
+        "Collecte_Nom": "\u00c9cocentre de Magog",
+        "Collecte_Adresse": "2300, rue Tanguay",
+        "Collecte_Ville": "Magog ",
+        "Collecte_Codepostal": "J1X 7K3",
+        "Collecte_Longitude": -72.1186462864,
+        "Collecte_Latitude": 45.280897648
+    },
+    {
+        "index": 93,
+        "Collecte_Nom": "\u00c9cocentre de Malartic",
+        "Collecte_Adresse": "542, chemin Jolicoeur et Ste-Croix",
+        "Collecte_Ville": "Malartic",
+        "Collecte_Codepostal": "J0Y 1Z0",
+        "Collecte_Longitude": -78.1391834,
+        "Collecte_Latitude": 48.1310946705
+    },
+    {
+        "index": 94,
+        "Collecte_Nom": "\u00c9cocentre de Marguerite-D'Youville - Secteur nord",
+        "Collecte_Adresse": "4111, route Marie-Victorin",
+        "Collecte_Ville": "Contrecoeur ",
+        "Collecte_Codepostal": "J0L 1C0",
+        "Collecte_Longitude": -73.0197168814,
+        "Collecte_Latitude": 46.0144757738
+    },
+    {
+        "index": 95,
+        "Collecte_Nom": "\u00c9cocentre de Marguerite-D'Youville - Secteur sud",
+        "Collecte_Adresse": "1975, Chemin de l'\u00c9nergie",
+        "Collecte_Ville": "Varennes ",
+        "Collecte_Codepostal": "J3X 1P7",
+        "Collecte_Longitude": -73.3749453641,
+        "Collecte_Latitude": 45.6388507476
+    },
+    {
+        "index": 96,
+        "Collecte_Nom": "\u00c9cocentre de Marie-Victorin",
+        "Collecte_Adresse": "1140, boulevard Marie-Victorin",
+        "Collecte_Ville": "Longueuil ",
+        "Collecte_Codepostal": "J4G 2H9",
+        "Collecte_Longitude": -73.4909445149,
+        "Collecte_Latitude": 45.5549378655
+    },
+    {
+        "index": 97,
+        "Collecte_Nom": "\u00c9cocentre de Matane",
+        "Collecte_Adresse": "330, rue Yves-B\u00e9rub\u00e9",
+        "Collecte_Ville": "Matane ",
+        "Collecte_Codepostal": "G4W 3M6",
+        "Collecte_Longitude": -67.5701985284,
+        "Collecte_Latitude": 48.8153540537
+    },
+    {
+        "index": 98,
+        "Collecte_Nom": "\u00c9cocentre de Montmagny - du Golf",
+        "Collecte_Adresse": "550, chemin du Golf",
+        "Collecte_Ville": "Montmagny",
+        "Collecte_Codepostal": "G5V 3R9",
+        "Collecte_Longitude": -70.4749715821,
+        "Collecte_Latitude": 46.9645633079
+    },
+    {
+        "index": 99,
+        "Collecte_Nom": "\u00c9cocentre de Mont-Tremblant",
+        "Collecte_Adresse": "60, chemin Br\u00e9beuf",
+        "Collecte_Ville": "Mont-Tremblant",
+        "Collecte_Codepostal": "J8E 2E1",
+        "Collecte_Longitude": -74.6067952888,
+        "Collecte_Latitude": 46.1140318391
+    },
+    {
+        "index": 100,
+        "Collecte_Nom": "\u00c9cocentre de Murdochville",
+        "Collecte_Adresse": "53, route de la Mine",
+        "Collecte_Ville": "Murdochville",
+        "Collecte_Codepostal": "G0E 1W0",
+        "Collecte_Longitude": -65.5069859412,
+        "Collecte_Latitude": 48.9560987365
+    },
+    {
+        "index": 101,
+        "Collecte_Nom": "\u00c9cocentre de Neuville",
+        "Collecte_Adresse": "1310, chemin du Site",
+        "Collecte_Ville": "Neuville ",
+        "Collecte_Codepostal": "G0A 2R0",
+        "Collecte_Longitude": -71.6821475259,
+        "Collecte_Latitude": 46.7359413251
+    },
+    {
+        "index": 102,
+        "Collecte_Nom": "\u00c9cocentre de Normandin",
+        "Collecte_Adresse": "1177, rue Lydoric-Doucet",
+        "Collecte_Ville": "Normandin ",
+        "Collecte_Codepostal": "G8M 5C7",
+        "Collecte_Longitude": -72.5153624833,
+        "Collecte_Latitude": 48.8465949415
+    },
+    {
+        "index": 103,
+        "Collecte_Nom": "\u00c9cocentre de Notre-Dame-de-la-Merci",
+        "Collecte_Adresse": "2101, route 125",
+        "Collecte_Ville": "Notre-Dame-de-la-Merci",
+        "Collecte_Codepostal": "J0T 2A0",
+        "Collecte_Longitude": -74.0683573005,
+        "Collecte_Latitude": 46.232213113
+    },
+    {
+        "index": 104,
+        "Collecte_Nom": "\u00c9cocentre de Notre-Dame-de-Montauban",
+        "Collecte_Adresse": "485, rue du Centre",
+        "Collecte_Ville": "Notre-Dame-de-Montauban ",
+        "Collecte_Codepostal": "G0X 1W0",
+        "Collecte_Longitude": -72.3078588039,
+        "Collecte_Latitude": 46.876486575
+    },
+    {
+        "index": 105,
+        "Collecte_Nom": "\u00c9cocentre de Perc\u00e9",
+        "Collecte_Adresse": "50, route Lemieux",
+        "Collecte_Ville": "Perc\u00e9",
+        "Collecte_Codepostal": "G0C 1G0",
+        "Collecte_Longitude": -64.3082892709,
+        "Collecte_Latitude": 48.48823171
+    },
+    {
+        "index": 106,
+        "Collecte_Nom": "\u00c9cocentre de Poh\u00e9n\u00e9gamook",
+        "Collecte_Adresse": "480, rue du Parc Industriel",
+        "Collecte_Ville": "Poh\u00e9n\u00e9gamook ",
+        "Collecte_Codepostal": "G0L 1J0",
+        "Collecte_Longitude": -69.1681451987,
+        "Collecte_Latitude": 47.458533495
+    },
+    {
+        "index": 107,
+        "Collecte_Nom": "\u00c9cocentre de Pointe-Calumet",
+        "Collecte_Adresse": "720, 38e rue",
+        "Collecte_Ville": "Pointe-Calumet ",
+        "Collecte_Codepostal": "J0N 1G5",
+        "Collecte_Longitude": -73.9707391323,
+        "Collecte_Latitude": 45.5071299744
+    },
+    {
+        "index": 108,
+        "Collecte_Nom": "\u00c9cocentre de Preissac",
+        "Collecte_Adresse": "707, avenue du Lac",
+        "Collecte_Ville": "Preissac ",
+        "Collecte_Codepostal": "J0Y 2E0",
+        "Collecte_Longitude": -78.3809923311,
+        "Collecte_Latitude": 48.373257
+    },
+    {
+        "index": 109,
+        "Collecte_Nom": "\u00c9cocentre de Pr\u00e9vost",
+        "Collecte_Adresse": "1144, rue Doucet",
+        "Collecte_Ville": "Pr\u00e9vost",
+        "Collecte_Codepostal": "J0R 1T0",
+        "Collecte_Longitude": -74.0700774748,
+        "Collecte_Latitude": 45.8673436132
+    },
+    {
+        "index": 110,
+        "Collecte_Nom": "\u00c9cocentre de Rawdon - Compo Recycle",
+        "Collecte_Adresse": "3269, rue Metcalfe",
+        "Collecte_Ville": "Rawdon",
+        "Collecte_Codepostal": "J0K 1S0",
+        "Collecte_Longitude": -73.6915508472,
+        "Collecte_Latitude": 46.0346591906
+    },
+    {
+        "index": 111,
+        "Collecte_Nom": "\u00c9cocentre de Rimouski",
+        "Collecte_Adresse": "835, chemin Victor-Gauvin",
+        "Collecte_Ville": "Rimouski ",
+        "Collecte_Codepostal": "G5L 8Y9",
+        "Collecte_Longitude": -68.5634263786,
+        "Collecte_Latitude": 48.4056805563
+    },
+    {
+        "index": 112,
+        "Collecte_Nom": "\u00c9cocentre de Rivi\u00e8re-\u00e0-Pierre",
+        "Collecte_Adresse": "830, rue Principale",
+        "Collecte_Ville": "Rivi\u00e8re-\u00e0-Pierre ",
+        "Collecte_Codepostal": "G0A 3A0",
+        "Collecte_Longitude": -72.1761317435,
+        "Collecte_Latitude": 46.9969126466
+    },
+    {
+        "index": 113,
+        "Collecte_Nom": "\u00c9cocentre de Rivi\u00e8re-du-Loup",
+        "Collecte_Adresse": "100, rue Delage",
+        "Collecte_Ville": "Rivi\u00e8re-du-Loup ",
+        "Collecte_Codepostal": "G5R 3P9",
+        "Collecte_Longitude": -69.5244710548,
+        "Collecte_Latitude": 47.8198202834
+    },
+    {
+        "index": 114,
+        "Collecte_Nom": "\u00c9cocentre de Roberval",
+        "Collecte_Adresse": "1855, rue Castonguay",
+        "Collecte_Ville": "Roberval ",
+        "Collecte_Codepostal": "G8H 2M9",
+        "Collecte_Longitude": -72.2581530514,
+        "Collecte_Latitude": 48.5339892162
+    },
+    {
+        "index": 115,
+        "Collecte_Nom": "\u00c9cocentre de Rosem\u00e8re",
+        "Collecte_Adresse": "190, rue Charbonneau",
+        "Collecte_Ville": "Rosem\u00e8re ",
+        "Collecte_Codepostal": "J7A 3W1",
+        "Collecte_Longitude": -73.7832414321,
+        "Collecte_Latitude": 45.6386400449
+    },
+    {
+        "index": 116,
+        "Collecte_Nom": "\u00c9cocentre Arthur-Gagnon",
+        "Collecte_Adresse": "210, avenue Marcel-Baril",
+        "Collecte_Ville": "Rouyn-Noranda ",
+        "Collecte_Codepostal": "J9X 6J2",
+        "Collecte_Longitude": -79.0084975073,
+        "Collecte_Latitude": 48.2588180079
+    },
+    {
+        "index": 117,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Adelphe",
+        "Collecte_Adresse": "191, Rang Sud-Est",
+        "Collecte_Ville": "Saint-Adelphe ",
+        "Collecte_Codepostal": "G0X 2G0",
+        "Collecte_Longitude": -72.4282942732,
+        "Collecte_Latitude": 46.7287801662
+    },
+    {
+        "index": 118,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Alban",
+        "Collecte_Adresse": "180, route 354",
+        "Collecte_Ville": "Saint-Alban  ",
+        "Collecte_Codepostal": "G0A 3B0",
+        "Collecte_Longitude": -72.0683132068,
+        "Collecte_Latitude": 46.7184461724
+    },
+    {
+        "index": 119,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Alexandre",
+        "Collecte_Adresse": "619, route 289",
+        "Collecte_Ville": "Saint-Alexandre de Kamouraska",
+        "Collecte_Codepostal": "G0L 2G0",
+        "Collecte_Longitude": -69.6184712949,
+        "Collecte_Latitude": 47.6793867237
+    },
+    {
+        "index": 120,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Alphonse-Rodriguez - Garage municipal",
+        "Collecte_Adresse": "921, route 343",
+        "Collecte_Ville": "Saint-Alphonse-Rodriguez",
+        "Collecte_Codepostal": "J0K 1W0",
+        "Collecte_Longitude": -73.6938666703,
+        "Collecte_Latitude": 46.1857518103
+    },
+    {
+        "index": 121,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Anselme",
+        "Collecte_Adresse": "500, route B\u00e9gin",
+        "Collecte_Ville": "Saint-Anselme",
+        "Collecte_Codepostal": "G0R 2N0",
+        "Collecte_Longitude": -70.9874273194,
+        "Collecte_Latitude": 46.6387926673
+    },
+    {
+        "index": 122,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Bruno",
+        "Collecte_Adresse": "600, rue Sagard",
+        "Collecte_Ville": "Saint-Bruno-de-Montarville",
+        "Collecte_Codepostal": "J3V 6B9",
+        "Collecte_Longitude": -73.3637974608,
+        "Collecte_Latitude": 45.5173338643
+    },
+    {
+        "index": 123,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Calixte",
+        "Collecte_Adresse": "315, rue Lajoie",
+        "Collecte_Ville": "Saint-Calixte",
+        "Collecte_Codepostal": "J0K 1Z0",
+        "Collecte_Longitude": -73.8422750466,
+        "Collecte_Latitude": 45.9425906537
+    },
+    {
+        "index": 124,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Charles-de-Bellechasse",
+        "Collecte_Adresse": "25, rue de l\u2019\u00c9glise",
+        "Collecte_Ville": "Saint-Charles-de-Bellechasse",
+        "Collecte_Codepostal": "G0R 2T0",
+        "Collecte_Longitude": -70.9371363302,
+        "Collecte_Latitude": 46.7714316945
+    },
+    {
+        "index": 125,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Colomban",
+        "Collecte_Adresse": "355, mont\u00e9e de l'\u00c9glise",
+        "Collecte_Ville": "Saint-Colomban",
+        "Collecte_Codepostal": "J5K 2J1",
+        "Collecte_Longitude": -74.1403302684,
+        "Collecte_Latitude": 45.7410082909
+    },
+    {
+        "index": 126,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Damien-Damien-de-Buckland",
+        "Collecte_Adresse": "250, boulevard M\u00e9tivier",
+        "Collecte_Ville": "Saint-Damien-de-Buckland",
+        "Collecte_Codepostal": "G0R 2Y0",
+        "Collecte_Longitude": -70.6495399772,
+        "Collecte_Latitude": 46.6276309903
+    },
+    {
+        "index": 127,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Donat - Compo Recycle",
+        "Collecte_Adresse": "214, chemin du Long-de-la-Rivi\u00e8re",
+        "Collecte_Ville": "Saint-Donat",
+        "Collecte_Codepostal": "J0T 2C0",
+        "Collecte_Longitude": -74.1948059861,
+        "Collecte_Latitude": 46.3130609433
+    },
+    {
+        "index": 128,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Ad\u00e8le - Compo Recycle  ",
+        "Collecte_Adresse": "2815, rue Rolland ",
+        "Collecte_Ville": "Sainte-Ad\u00e8le ",
+        "Collecte_Codepostal": "J8B 1C9",
+        "Collecte_Longitude": -74.1261625996,
+        "Collecte_Latitude": 45.937382269
+    },
+    {
+        "index": 129,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Agathe-des-Monts",
+        "Collecte_Adresse": "1710, rue Principale Est",
+        "Collecte_Ville": "Sainte-Agathe-des-Monts",
+        "Collecte_Codepostal": "J8C 1M1",
+        "Collecte_Longitude": -74.2498174404,
+        "Collecte_Latitude": 46.0420850449
+    },
+    {
+        "index": 130,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Anne-des-Monts",
+        "Collecte_Adresse": "730, boulevard Ste-Anne Ouest",
+        "Collecte_Ville": "Sainte-Anne-des-Monts",
+        "Collecte_Codepostal": "G4V 1V2",
+        "Collecte_Longitude": -66.5595239897,
+        "Collecte_Latitude": 49.1259081509
+    },
+    {
+        "index": 131,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-\u00c9m\u00e9lie-de-l'\u00c9nergie",
+        "Collecte_Adresse": "593, rang de la Seigneurie",
+        "Collecte_Ville": "Sainte-\u00c9m\u00e9lie-de-L'\u00c9nergie",
+        "Collecte_Codepostal": "J0K 2K0",
+        "Collecte_Longitude": -73.6381549926,
+        "Collecte_Latitude": 46.322501392
+    },
+    {
+        "index": 132,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Justine",
+        "Collecte_Adresse": "167, route 204",
+        "Collecte_Ville": "Saint-Justine",
+        "Collecte_Codepostal": "G0R 1Y0",
+        "Collecte_Longitude": -70.357279652,
+        "Collecte_Latitude": 46.4027453206
+    },
+    {
+        "index": 133,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Lucie-des-Laurentides",
+        "Collecte_Adresse": "2143, chemin Martin",
+        "Collecte_Ville": "Sainte-Lucie-des-Laurentides",
+        "Collecte_Codepostal": "J0T 2J0",
+        "Collecte_Longitude": -74.1843177575,
+        "Collecte_Latitude": 46.1349069184
+    },
+    {
+        "index": 134,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Marcelline",
+        "Collecte_Adresse": "391, rang Pied-de-la-Montagne",
+        "Collecte_Ville": "Sainte-Marcelline-de-Kildare",
+        "Collecte_Codepostal": "J0K 2Y0",
+        "Collecte_Longitude": -73.5956661846,
+        "Collecte_Latitude": 46.1172868107
+    },
+    {
+        "index": 135,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Martine",
+        "Collecte_Adresse": "75, rue Saint-Joseph",
+        "Collecte_Ville": "Sainte-Martine ",
+        "Collecte_Codepostal": "J0S 1V0",
+        "Collecte_Longitude": -73.8059513118,
+        "Collecte_Latitude": 45.2412523998
+    },
+    {
+        "index": 136,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Th\u00e8cle - Garage municipal",
+        "Collecte_Adresse": "1951, chemin Saint-Georges",
+        "Collecte_Ville": "Sainte-Th\u00e8cle ",
+        "Collecte_Codepostal": "G0X 3G0",
+        "Collecte_Longitude": -72.4975182875,
+        "Collecte_Latitude": 46.8034817426
+    },
+    {
+        "index": 137,
+        "Collecte_Nom": "\u00c9cocentre de Saint-F\u00e9licien",
+        "Collecte_Adresse": "1800, rue Verreault",
+        "Collecte_Ville": "Saint-F\u00e9licien ",
+        "Collecte_Codepostal": "G8K 1X9",
+        "Collecte_Longitude": -72.4429693116,
+        "Collecte_Latitude": 48.6356943301
+    },
+    {
+        "index": 138,
+        "Collecte_Nom": "\u00c9cocentre de Saint-F\u00e9lix-de-Valois",
+        "Collecte_Adresse": "4400 rue Beaudry",
+        "Collecte_Ville": "Saint-F\u00e9lix-de-Valois",
+        "Collecte_Codepostal": "J0K 2M0",
+        "Collecte_Longitude": -73.4261130309,
+        "Collecte_Latitude": 46.1437449295
+    },
+    {
+        "index": 139,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Ferr\u00e9ol-les-Neiges",
+        "Collecte_Adresse": "4054, avenue Royale",
+        "Collecte_Ville": "Saint-Ferr\u00e9ol-les-Neiges ",
+        "Collecte_Codepostal": "G0A 3R0",
+        "Collecte_Longitude": -70.8409699182,
+        "Collecte_Latitude": 47.1277052714
+    },
+    {
+        "index": 140,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Flavien",
+        "Collecte_Adresse": "1450, rang Pointe du Jour",
+        "Collecte_Ville": "Saint-Flavien",
+        "Collecte_Codepostal": "G0S 2M0",
+        "Collecte_Longitude": -71.5533560736,
+        "Collecte_Latitude": 46.5600273123
+    },
+    {
+        "index": 141,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Fran\u00e7ois-de-Sales",
+        "Collecte_Adresse": "93, rue Bouchard",
+        "Collecte_Ville": "Saint-Fran\u00e7ois-de-Sales ",
+        "Collecte_Codepostal": "G0W 1M0",
+        "Collecte_Longitude": -72.1586419207,
+        "Collecte_Latitude": 48.332719931
+    },
+    {
+        "index": 142,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Henri",
+        "Collecte_Adresse": "120, route du Pr\u00e9sident-Kennedy",
+        "Collecte_Ville": "Saint-Henri-de-L\u00e9vis",
+        "Collecte_Codepostal": "G0R 3E0",
+        "Collecte_Longitude": -71.0833153025,
+        "Collecte_Latitude": 46.6820356382
+    },
+    {
+        "index": 143,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Hippolyte",
+        "Collecte_Adresse": "2056, chemin des Hauteurs",
+        "Collecte_Ville": "Saint-Hippolyte",
+        "Collecte_Codepostal": "J8A 2L5",
+        "Collecte_Longitude": -74.0185710175,
+        "Collecte_Latitude": 45.9241936118
+    },
+    {
+        "index": 144,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Hubert-de-Rivi\u00e8re-du-Loup",
+        "Collecte_Adresse": "151, 1er Rang Est",
+        "Collecte_Ville": "Saint-Hubert-de-Rivi\u00e8re-du-Loup",
+        "Collecte_Codepostal": "G0L 3L0",
+        "Collecte_Longitude": -69.1340650325,
+        "Collecte_Latitude": 47.8533055004
+    },
+    {
+        "index": 145,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Hyacinthe ",
+        "Collecte_Adresse": "1880, rue Brouillette",
+        "Collecte_Ville": "Saint-Hyacinthe ",
+        "Collecte_Codepostal": "J2T 2G8",
+        "Collecte_Longitude": -72.9238349932,
+        "Collecte_Latitude": 45.6292556667
+    },
+    {
+        "index": 146,
+        "Collecte_Nom": "\u00c9cocentre de Saint-J\u00e9r\u00f4me",
+        "Collecte_Adresse": "301, rue Lajeunesse O.",
+        "Collecte_Ville": "Saint-J\u00e9r\u00f4me",
+        "Collecte_Codepostal": "J7Y 4E4",
+        "Collecte_Longitude": -74.0215300993,
+        "Collecte_Latitude": 45.7857657029
+    },
+    {
+        "index": 147,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Joseph-du-Lac",
+        "Collecte_Adresse": "4085, chemin d\u2019Oka",
+        "Collecte_Ville": "Saint-Joseph-du-Lac",
+        "Collecte_Codepostal": "J0N 1M0",
+        "Collecte_Longitude": -73.9897074897,
+        "Collecte_Latitude": 45.5040644642
+    },
+    {
+        "index": 148,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Lambert",
+        "Collecte_Adresse": "515, rue Saint-Aim\u00e9",
+        "Collecte_Ville": "Saint-Lambert-de-Lauzon",
+        "Collecte_Codepostal": "G0S 2W0",
+        "Collecte_Longitude": -71.2749135219,
+        "Collecte_Latitude": 46.5964294642
+    },
+    {
+        "index": 149,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Lazare-de-Bellechasse",
+        "Collecte_Adresse": "307, route 279",
+        "Collecte_Ville": "Saint-Lazare-de-Bellechasse",
+        "Collecte_Codepostal": "G0R 3J0",
+        "Collecte_Longitude": -70.8011467502,
+        "Collecte_Latitude": 46.6496345224
+    },
+    {
+        "index": 150,
+        "Collecte_Nom": "\u00c9cocentre de Saint-L\u00e9on-de-Standon",
+        "Collecte_Adresse": "59, route de l\u2019\u00c9glise",
+        "Collecte_Ville": "Saint-L\u00e9on-de-Standon",
+        "Collecte_Codepostal": "G0R 4L0",
+        "Collecte_Longitude": -70.6204134327,
+        "Collecte_Latitude": 46.4767476877
+    },
+    {
+        "index": 151,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Luc - Compo-Haut-Richelieu",
+        "Collecte_Adresse": "950, rue Gaudette",
+        "Collecte_Ville": "Saint-Jean-sur-Richelieu ",
+        "Collecte_Codepostal": "J2W 3G1",
+        "Collecte_Longitude": -73.297959543,
+        "Collecte_Latitude": 45.3226694185
+    },
+    {
+        "index": 152,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Malachie",
+        "Collecte_Adresse": "118, rang Longue-Pointe",
+        "Collecte_Ville": "Saint-Malachie",
+        "Collecte_Codepostal": "G0R 3N0",
+        "Collecte_Longitude": -70.7890522342,
+        "Collecte_Latitude": 46.5366241558
+    },
+    {
+        "index": 153,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Michel-de-Bellechasse",
+        "Collecte_Adresse": "122, route 132 Est",
+        "Collecte_Ville": "Saint-Michel-de-Bellechasse",
+        "Collecte_Codepostal": "G0R 3S0",
+        "Collecte_Longitude": -70.905541601,
+        "Collecte_Latitude": 46.8726041461
+    },
+    {
+        "index": 154,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Nazaire",
+        "Collecte_Adresse": "101, rue Principale",
+        "Collecte_Ville": "Saint-Nazaire-de-Dorchester",
+        "Collecte_Codepostal": "G0R 3T0",
+        "Collecte_Longitude": -70.6174437396,
+        "Collecte_Latitude": 46.5587961691
+    },
+    {
+        "index": 155,
+        "Collecte_Nom": "\u00c9cocentre de Saint-N\u00e9r\u00e9e",
+        "Collecte_Adresse": "1021, 4e Rang Est",
+        "Collecte_Ville": "Saint-N\u00e9r\u00e9e-de-Bellechasse",
+        "Collecte_Codepostal": "G0R 3V0",
+        "Collecte_Longitude": -70.7190714804,
+        "Collecte_Latitude": 46.732508385
+    },
+    {
+        "index": 156,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Pascal",
+        "Collecte_Adresse": "236, avenue du Parc",
+        "Collecte_Ville": "Saint-Pascal ",
+        "Collecte_Codepostal": "G0L 3Y0",
+        "Collecte_Longitude": -69.8230107804,
+        "Collecte_Latitude": 47.5295069762
+    },
+    {
+        "index": 157,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Phil\u00e9mon",
+        "Collecte_Adresse": "1531, rue Principale",
+        "Collecte_Ville": "Saint-Phil\u00e9mon",
+        "Collecte_Codepostal": "G0R 4A0",
+        "Collecte_Longitude": -70.4477666829,
+        "Collecte_Latitude": 46.6788440177
+    },
+    {
+        "index": 158,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Prosper",
+        "Collecte_Adresse": "2775, 40e rue",
+        "Collecte_Ville": "Saint-Prosper",
+        "Collecte_Codepostal": "G0M1Y0",
+        "Collecte_Longitude": -70.4822573414,
+        "Collecte_Latitude": 46.2124081573
+    },
+    {
+        "index": 159,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Raymond",
+        "Collecte_Adresse": "590, chemin Bourg-Louis",
+        "Collecte_Ville": "Saint-Raymond ",
+        "Collecte_Codepostal": "G3L 4G2",
+        "Collecte_Longitude": -71.8140862959,
+        "Collecte_Latitude": 46.8752256786
+    },
+    {
+        "index": 160,
+        "Collecte_Nom": "\u00c9cocentre de Saint-R\u00e9mi",
+        "Collecte_Adresse": "284, rue de l\u2019\u00c9glise",
+        "Collecte_Ville": "Saint-R\u00e9mi",
+        "Collecte_Codepostal": "J0L 2L0",
+        "Collecte_Longitude": -73.632584843,
+        "Collecte_Latitude": 45.2625784743
+    },
+    {
+        "index": 161,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Roch-de-M\u00e9kinac",
+        "Collecte_Adresse": "1210, route Ducharme",
+        "Collecte_Ville": "Saint-Roch-de-M\u00e9kinac ",
+        "Collecte_Codepostal": "G0X 2E0",
+        "Collecte_Longitude": -72.7677963762,
+        "Collecte_Latitude": 46.8106751353
+    },
+    {
+        "index": 162,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Sauveur",
+        "Collecte_Adresse": "2125, chemin Jean-Adam",
+        "Collecte_Ville": "Saint-Sauveur",
+        "Collecte_Codepostal": "J0R 1R2",
+        "Collecte_Longitude": -74.1797926721,
+        "Collecte_Latitude": 45.8856923952
+    },
+    {
+        "index": 163,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Sim\u00e9on",
+        "Collecte_Adresse": "368, rue Bergeron ",
+        "Collecte_Ville": "Saint-Sim\u00e9on ",
+        "Collecte_Codepostal": "G0T 1X0",
+        "Collecte_Longitude": -69.8820854961,
+        "Collecte_Latitude": 47.8438854819
+    },
+    {
+        "index": 164,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Thomas (EBI)",
+        "Collecte_Adresse": "1001, chemin Saint-Joseph",
+        "Collecte_Ville": "Saint-Thomas-de-Joliette",
+        "Collecte_Codepostal": "J0K 1L0",
+        "Collecte_Longitude": -73.3946400242,
+        "Collecte_Latitude": 46.4066730298
+    },
+    {
+        "index": 165,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Tite-des-Caps",
+        "Collecte_Adresse": "374, avenue Royale",
+        "Collecte_Ville": "Saint-Tite-des-Caps ",
+        "Collecte_Codepostal": "G0A 4J0",
+        "Collecte_Longitude": -70.7675506629,
+        "Collecte_Latitude": 47.1484134315
+    },
+    {
+        "index": 166,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Ubalde",
+        "Collecte_Adresse": "570, rang Saint-Paul Nord",
+        "Collecte_Ville": "Saint-Ubalde ",
+        "Collecte_Codepostal": "G0A 4L0",
+        "Collecte_Longitude": -72.2821797963,
+        "Collecte_Latitude": 46.7661959748
+    },
+    {
+        "index": 167,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Urbain",
+        "Collecte_Adresse": "7, rue du Parc industriel",
+        "Collecte_Ville": "Saint-Urbain ",
+        "Collecte_Codepostal": "G0A 4K0",
+        "Collecte_Longitude": -70.5231024849,
+        "Collecte_Latitude": 47.5332515051
+    },
+    {
+        "index": 168,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Vallier",
+        "Collecte_Adresse": "376, mont\u00e9e de la Station ",
+        "Collecte_Ville": "Saint-Vallier",
+        "Collecte_Codepostal": "G0R 4J0",
+        "Collecte_Longitude": -70.7957211309,
+        "Collecte_Latitude": 46.8690361037
+    },
+    {
+        "index": 169,
+        "Collecte_Nom": "\u00c9cocentre de Salaberry-de-Valleyfield",
+        "Collecte_Adresse": "2575, boulevard Mgr-Langlois",
+        "Collecte_Ville": "Salaberry-de-Valleyfield ",
+        "Collecte_Codepostal": "J6S 5P7",
+        "Collecte_Longitude": -74.1081904019,
+        "Collecte_Latitude": 45.2725286915
+    },
+    {
+        "index": 170,
+        "Collecte_Nom": "\u00c9cocentre de Sayabec",
+        "Collecte_Adresse": "14, rue Rioux",
+        "Collecte_Ville": "Sayabec",
+        "Collecte_Codepostal": "G5J 3K0",
+        "Collecte_Longitude": -67.6904736306,
+        "Collecte_Latitude": 48.5605947922
+    },
+    {
+        "index": 171,
+        "Collecte_Nom": "\u00c9cocentre de Senneterre",
+        "Collecte_Adresse": "740, chemin du Parc-Industriel",
+        "Collecte_Ville": "Senneterre",
+        "Collecte_Codepostal": "J0Y 2M0",
+        "Collecte_Longitude": -77.1858947773,
+        "Collecte_Latitude": 48.3607229343
+    },
+    {
+        "index": 172,
+        "Collecte_Nom": "\u00c9cocentre de Sept-Iles",
+        "Collecte_Adresse": "601, boulevard des Montagnais",
+        "Collecte_Ville": "Sept-\u00celes ",
+        "Collecte_Codepostal": "G4R 2R4",
+        "Collecte_Longitude": -66.3771271608,
+        "Collecte_Latitude": 50.2398814816
+    },
+    {
+        "index": 173,
+        "Collecte_Nom": "\u00c9cocentre de Shawinigan",
+        "Collecte_Adresse": "2132, avenue de la Transmission",
+        "Collecte_Ville": "Shawinigan ",
+        "Collecte_Codepostal": "G9N 8N8",
+        "Collecte_Longitude": -72.7373524421,
+        "Collecte_Latitude": 46.5510979344
+    },
+    {
+        "index": 174,
+        "Collecte_Nom": "\u00c9cocentre de Squatec",
+        "Collecte_Adresse": "90, route 295 Nord",
+        "Collecte_Ville": "Saint-Michel-du-Squatec ",
+        "Collecte_Codepostal": "G0L 4H0",
+        "Collecte_Longitude": -68.7376268715,
+        "Collecte_Latitude": 47.8797796237
+    },
+    {
+        "index": 175,
+        "Collecte_Nom": "\u00c9cocentre de Stoneham-et-Tewkesbury",
+        "Collecte_Adresse": "100, chemin Plante",
+        "Collecte_Ville": "Stoneham-et-Tewkesbury ",
+        "Collecte_Codepostal": "G3C 0S4",
+        "Collecte_Longitude": -71.4103372943,
+        "Collecte_Latitude": 46.997413872
+    },
+    {
+        "index": 176,
+        "Collecte_Nom": "\u00c9cocentre de Sutton",
+        "Collecte_Adresse": "260, rue Principale Sud",
+        "Collecte_Ville": "Sutton ",
+        "Collecte_Codepostal": "J0E 2K0",
+        "Collecte_Longitude": -72.6258210479,
+        "Collecte_Latitude": 45.0877039757
+    },
+    {
+        "index": 177,
+        "Collecte_Nom": "\u00c9cocentre de T\u00e9miscouata-sur-le-Lac",
+        "Collecte_Adresse": "53, route 232 Est",
+        "Collecte_Ville": "T\u00e9miscouata-sur-le-Lac ",
+        "Collecte_Codepostal": "G0L 1E0",
+        "Collecte_Longitude": -68.9082486828,
+        "Collecte_Latitude": 47.6955339363
+    },
+    {
+        "index": 178,
+        "Collecte_Nom": "\u00c9cocentre de Thetford",
+        "Collecte_Adresse": "251, rue Caouette Ouest",
+        "Collecte_Ville": "Thetford Mines",
+        "Collecte_Codepostal": "G6G 5S5",
+        "Collecte_Longitude": -71.3082845779,
+        "Collecte_Latitude": 46.0957255616
+    },
+    {
+        "index": 179,
+        "Collecte_Nom": "\u00c9cocentre de Tr\u00e9cesson ",
+        "Collecte_Adresse": "chemin Desboues - secteur village de Villemontel",
+        "Collecte_Ville": "Tr\u00e9cesson ",
+        "Collecte_Codepostal": "J0Y 2S0",
+        "Collecte_Longitude": -78.3635001589,
+        "Collecte_Latitude": 48.6395410396
+    },
+    {
+        "index": 180,
+        "Collecte_Nom": "\u00c9cocentre de Trois-Rivi\u00e8res - Secteur est",
+        "Collecte_Adresse": "1921, rue des Toitures",
+        "Collecte_Ville": "Trois-Rivi\u00e8res ",
+        "Collecte_Codepostal": "G8V 1W1",
+        "Collecte_Longitude": -72.5326523547,
+        "Collecte_Latitude": 46.4068826998
+    },
+    {
+        "index": 181,
+        "Collecte_Nom": "\u00c9cocentre de Trois-Rivi\u00e8res - Secteur ouest",
+        "Collecte_Adresse": "2455, rue Charbonneau",
+        "Collecte_Ville": "Trois-Rivi\u00e8res ",
+        "Collecte_Codepostal": "G9A 5C9",
+        "Collecte_Longitude": -72.5976933297,
+        "Collecte_Latitude": 46.3222408303
+    },
+    {
+        "index": 182,
+        "Collecte_Nom": "\u00c9cocentre de Val-B\u00e9lair - Arrondissement de La Haute-Saint-Charles",
+        "Collecte_Adresse": "1472,\u00a0rue\u00a0Jean-Bardot",
+        "Collecte_Ville": "Qu\u00e9bec ",
+        "Collecte_Codepostal": "G3J 1R3",
+        "Collecte_Longitude": -71.4509860269,
+        "Collecte_Latitude": 46.8796370784
+    },
+    {
+        "index": 183,
+        "Collecte_Nom": "\u00c9cocentre de Val-des-Lacs",
+        "Collecte_Adresse": "20, chemin Charron",
+        "Collecte_Ville": "Val-des-Lacs",
+        "Collecte_Codepostal": "J0T 2P0",
+        "Collecte_Longitude": -74.3445487078,
+        "Collecte_Latitude": 46.1820729597
+    },
+    {
+        "index": 184,
+        "Collecte_Nom": "\u00c9cocentre de Val-d'Or",
+        "Collecte_Adresse": "2001, 3e avenue Est (route 117)",
+        "Collecte_Ville": "Val-d'Or ",
+        "Collecte_Codepostal": "J9P 7B4",
+        "Collecte_Longitude": -77.8726623198,
+        "Collecte_Latitude": 48.0934582649
+    },
+    {
+        "index": 185,
+        "Collecte_Nom": "\u00c9cocentre de Val-Saint-Fran\u00e7ois",
+        "Collecte_Adresse": "666, chemin Keenan",
+        "Collecte_Ville": "Melbourne Canton ",
+        "Collecte_Codepostal": "J1S 2L4",
+        "Collecte_Longitude": -72.081806589,
+        "Collecte_Latitude": 45.5779074559
+    },
+    {
+        "index": 186,
+        "Collecte_Nom": "\u00c9cocentre de Vaudreuil-Dorion",
+        "Collecte_Adresse": "2800, rue Henry-Ford",
+        "Collecte_Ville": "Vaudreuil-Dorion ",
+        "Collecte_Codepostal": "J7V 0V8",
+        "Collecte_Longitude": -74.0479138293,
+        "Collecte_Latitude": 45.3832557811
+    },
+    {
+        "index": 187,
+        "Collecte_Nom": "Transport RLS - \u00c9cocentre municipal de Papineauville",
+        "Collecte_Adresse": "108, rue Papineau",
+        "Collecte_Ville": "Papineauville",
+        "Collecte_Codepostal": "J0V 1R0",
+        "Collecte_Longitude": -75.0029463878,
+        "Collecte_Latitude": 45.6184064709
+    },
+    {
+        "index": 188,
+        "Collecte_Nom": "\u00c9cocentre Gaudreau Environnement",
+        "Collecte_Adresse": "370, rue de la Bulstrode",
+        "Collecte_Ville": "Victoriaville ",
+        "Collecte_Codepostal": "G6P 6V7",
+        "Collecte_Longitude": -71.9482948633,
+        "Collecte_Latitude": 46.0806255094
+    },
+    {
+        "index": 189,
+        "Collecte_Nom": "\u00c9cocentre \u00e0 Waterloo",
+        "Collecte_Adresse": "6550, rue Foster",
+        "Collecte_Ville": "Waterloo ",
+        "Collecte_Codepostal": "J0E 2N0",
+        "Collecte_Longitude": -72.512625071,
+        "Collecte_Latitude": 45.3567347045
+    },
+    {
+        "index": 190,
+        "Collecte_Nom": "\u00c9cocentre des Bergeronnes",
+        "Collecte_Adresse": "995, rang Saint-Joseph",
+        "Collecte_Ville": "Les Bergeronnes ",
+        "Collecte_Codepostal": "G0T 1G0",
+        "Collecte_Longitude": -69.5273423402,
+        "Collecte_Latitude": 48.3088051294
+    },
+    {
+        "index": 191,
+        "Collecte_Nom": "\u00c9cocentre d'Iberville - Compo-Haut-Richelieu",
+        "Collecte_Adresse": "825, rue Lucien-Beaudin",
+        "Collecte_Ville": "Saint-Jean-sur-Richelieu ",
+        "Collecte_Codepostal": "J2X 5L2",
+        "Collecte_Longitude": -73.2155152789,
+        "Collecte_Latitude": 45.3028766073
+    },
+    {
+        "index": 192,
+        "Collecte_Nom": "\u00c9cocentre d'Oka",
+        "Collecte_Adresse": "2017 chemin d\u2019Oka",
+        "Collecte_Ville": "Oka",
+        "Collecte_Codepostal": "J0N 1E0",
+        "Collecte_Longitude": -74.0578799193,
+        "Collecte_Latitude": 45.4776442024
+    },
+    {
+        "index": 193,
+        "Collecte_Nom": "\u00c9cocentre d'Ormstown",
+        "Collecte_Adresse": "9, rue Saint-Paul",
+        "Collecte_Ville": "Ormstown",
+        "Collecte_Codepostal": "J0S 1K0",
+        "Collecte_Longitude": -73.9981242874,
+        "Collecte_Latitude": 45.1280881639
+    },
+    {
+        "index": 194,
+        "Collecte_Nom": "\u00c9cocentre du Canton d'Orford",
+        "Collecte_Adresse": "1120, chemin de la Montagne",
+        "Collecte_Ville": "Canton d'Orford ",
+        "Collecte_Codepostal": "J1X 6X9",
+        "Collecte_Longitude": -72.1731900542,
+        "Collecte_Latitude": 45.3099042451
+    },
+    {
+        "index": 195,
+        "Collecte_Nom": "\u00c9cocentre du Haut-Saint-Fran\u00e7ois",
+        "Collecte_Adresse": "105, chemin du Maine Central",
+        "Collecte_Ville": "Bury ",
+        "Collecte_Codepostal": "J0B 1J0",
+        "Collecte_Longitude": -71.577245805,
+        "Collecte_Latitude": 45.4912429821
+    },
+    {
+        "index": 196,
+        "Collecte_Nom": "\u00c9cocentre du Lac Sup\u00e9rieur",
+        "Collecte_Adresse": "1101, chemin du Lac Sup\u00e9rieur",
+        "Collecte_Ville": "Lac Sup\u00e9rieur",
+        "Collecte_Codepostal": "J0T 1J0",
+        "Collecte_Longitude": -74.4714060916,
+        "Collecte_Latitude": 46.1759284599
+    },
+    {
+        "index": 197,
+        "Collecte_Nom": "\u00c9cocentre du Lac-Brome",
+        "Collecte_Adresse": "50, rue Mill",
+        "Collecte_Ville": "Lac-Brome ",
+        "Collecte_Codepostal": "J0E 1S0",
+        "Collecte_Longitude": -72.5486338681,
+        "Collecte_Latitude": 45.2528977381
+    },
+    {
+        "index": 198,
+        "Collecte_Nom": "\u00c9cocentre La Petite-Patrie - Arrondissement de Rosemont-La Petite-Patrie",
+        "Collecte_Adresse": "1100, rue des Carri\u00e8res",
+        "Collecte_Ville": "Montr\u00e9al ",
+        "Collecte_Codepostal": "H2S 2A8",
+        "Collecte_Longitude": -73.5918696153,
+        "Collecte_Latitude": 45.533996012
+    },
+    {
+        "index": 199,
+        "Collecte_Nom": "\u00c9cocentre les Bons Voisins",
+        "Collecte_Adresse": "40, chemin Sideline",
+        "Collecte_Ville": "Gore",
+        "Collecte_Codepostal": "J0V 1K0",
+        "Collecte_Longitude": -74.2499337099,
+        "Collecte_Latitude": 45.7505182611
+    },
+    {
+        "index": 200,
+        "Collecte_Nom": "\u00c9cocentre local de L'Ascension",
+        "Collecte_Adresse": "59, rue Principale Est",
+        "Collecte_Ville": "L'Ascension",
+        "Collecte_Codepostal": "J0T 1W0",
+        "Collecte_Longitude": -74.8205384906,
+        "Collecte_Latitude": 46.546898788
+    },
+    {
+        "index": 201,
+        "Collecte_Nom": "\u00c9cocentre Michel-Ledoux",
+        "Collecte_Adresse": "1000, rue L\u00e9on-Tr\u00e9panier",
+        "Collecte_Ville": "Sherbrooke ",
+        "Collecte_Codepostal": "J1G 5G6",
+        "Collecte_Longitude": -71.8610934146,
+        "Collecte_Latitude": 45.3937357705
+    },
+    {
+        "index": 202,
+        "Collecte_Nom": "\u00c9cocentre mobile de Barkmere",
+        "Collecte_Adresse": "182, chemin Barkmere",
+        "Collecte_Ville": "Barkmere",
+        "Collecte_Codepostal": "J0T 1A0",
+        "Collecte_Longitude": -74.5735515414,
+        "Collecte_Latitude": 46.0013549455
+    },
+    {
+        "index": 203,
+        "Collecte_Nom": "\u00c9cocentre mobile de Montcalm",
+        "Collecte_Adresse": "10, rue de l'H\u00f4tel de ville",
+        "Collecte_Ville": "Montcalm",
+        "Collecte_Codepostal": "J0T 2V0",
+        "Collecte_Longitude": -74.5468670501,
+        "Collecte_Latitude": 45.9448453219
+    },
+    {
+        "index": 204,
+        "Collecte_Nom": "\u00c9cocentre r\u00e9gional de Frampton",
+        "Collecte_Adresse": "10, route Boulet",
+        "Collecte_Ville": "Frampton",
+        "Collecte_Codepostal": "G0R 1M0",
+        "Collecte_Longitude": -70.7635056576,
+        "Collecte_Latitude": 46.3767542991
+    },
+    {
+        "index": 205,
+        "Collecte_Nom": "\u00c9cocentre r\u00e9gional de Sainte-Marie",
+        "Collecte_Adresse": "1690, boulevard Vachon Nord",
+        "Collecte_Ville": "Sainte-Marie",
+        "Collecte_Codepostal": "G6E 0G1",
+        "Collecte_Longitude": -71.0428971375,
+        "Collecte_Latitude": 46.4754715922
+    },
+    {
+        "index": 206,
+        "Collecte_Nom": "\u00c9cocentre Rivi\u00e8re-des-Prairies - Arrondissement de Rivi\u00e8re-des-Prairies-Pointe-aux-Trembles",
+        "Collecte_Adresse": "11400, rue L\u00e9opold-Christin",
+        "Collecte_Ville": "Montr\u00e9al ",
+        "Collecte_Codepostal": "H1E 7R3",
+        "Collecte_Longitude": -73.5610462491,
+        "Collecte_Latitude": 45.6405866981
+    },
+    {
+        "index": 207,
+        "Collecte_Nom": "\u00c9cocentre Rose-Cohen",
+        "Collecte_Adresse": "365, rue P\u00e9pin ",
+        "Collecte_Ville": "Sherbrooke ",
+        "Collecte_Codepostal": "J1L 2E2",
+        "Collecte_Longitude": -71.9694109937,
+        "Collecte_Latitude": 45.4005741386
+    },
+    {
+        "index": 208,
+        "Collecte_Nom": "\u00c9cocentre Saint-Michel - Arrondissement de Villeray-Saint-Michel-Parc-Extension",
+        "Collecte_Adresse": "2475, rue des Regrattiers ",
+        "Collecte_Ville": "Montr\u00e9al ",
+        "Collecte_Codepostal": "H1Z 4P2",
+        "Collecte_Longitude": -73.6166547074,
+        "Collecte_Latitude": 45.5594498441
+    },
+    {
+        "index": 209,
+        "Collecte_Nom": "\u00c9coparc de la MRC L'Assomption (EBI)",
+        "Collecte_Adresse": "134, chemin des Commissaires",
+        "Collecte_Ville": "L'Assomption",
+        "Collecte_Codepostal": "J5W 2T6",
+        "Collecte_Longitude": -73.4517156702,
+        "Collecte_Latitude": 45.8283715977
+    },
+    {
+        "index": 210,
+        "Collecte_Nom": "Mini-\u00e9cocentre de Trois-Rives",
+        "Collecte_Adresse": "258, chemin Saint-Joseph",
+        "Collecte_Ville": "Saint Joseph-de-M\u00e9kinac",
+        "Collecte_Codepostal": "G0X 2C0",
+        "Collecte_Longitude": -72.6996424783,
+        "Collecte_Latitude": 46.9171420742
+    },
+    {
+        "index": 211,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Secteur Chomedey",
+        "Collecte_Adresse": "1527, rue Cunard",
+        "Collecte_Ville": "Laval",
+        "Collecte_Codepostal": "H7S 2H8",
+        "Collecte_Longitude": -73.736324973,
+        "Collecte_Latitude": 45.5802778609
+    },
+    {
+        "index": 212,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Secteur Fabreville",
+        "Collecte_Adresse": "4026, boulevard Dagenais Ouest",
+        "Collecte_Ville": "Laval",
+        "Collecte_Codepostal": "H7R 1L3",
+        "Collecte_Longitude": -73.8262993001,
+        "Collecte_Latitude": 45.5608223664
+    },
+    {
+        "index": 213,
+        "Collecte_Nom": "\u00c9cocentre de Mont-Saint-Hilaire",
+        "Collecte_Adresse": "901, boulevard Sir-Wilfrid-Laurier",
+        "Collecte_Ville": "Mont-Saint-Hilaire ",
+        "Collecte_Codepostal": "J3H 6H7",
+        "Collecte_Longitude": -73.1753905896,
+        "Collecte_Latitude": 45.5756314502
+    },
+    {
+        "index": 214,
+        "Collecte_Nom": "\u00c9cocentre - R\u00e9cup\u00e9ration des Basques",
+        "Collecte_Adresse": "2, Route \u00e0 Coeur",
+        "Collecte_Ville": "Trois-Pistoles",
+        "Collecte_Codepostal": "G0L 4K0",
+        "Collecte_Longitude": -69.1605856595,
+        "Collecte_Latitude": 48.1149879963
+    },
+    {
+        "index": 215,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Alexis-des-Monts",
+        "Collecte_Adresse": "606, route 349 ",
+        "Collecte_Ville": "Saint-Alexis-des-Monts",
+        "Collecte_Codepostal": "J0K 1V0",
+        "Collecte_Longitude": -73.1502589307,
+        "Collecte_Latitude": 46.4493338549
+    },
+    {
+        "index": 216,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Tite - Service Cit\u00e9 Propre inc.",
+        "Collecte_Adresse": "1019, Route 153",
+        "Collecte_Ville": "Saint-Tite",
+        "Collecte_Codepostal": "G0X 3H0",
+        "Collecte_Longitude": -72.5576383308,
+        "Collecte_Latitude": 46.7413153432
+    },
+    {
+        "index": 217,
+        "Collecte_Nom": "\u00c9cocentre de Saint-S\u00e9verin",
+        "Collecte_Adresse": "381, route 159",
+        "Collecte_Ville": "Saint-S\u00e9verin",
+        "Collecte_Codepostal": "G0X 2B0",
+        "Collecte_Longitude": -72.5156254094,
+        "Collecte_Latitude": 46.6823524801
+    },
+    {
+        "index": 218,
+        "Collecte_Nom": "Poste de transbordement des d\u00e9chets et centre des RDD de la MRC des Collines-de-l\u2019Outaouais",
+        "Collecte_Adresse": "28, chemin de La P\u00eache",
+        "Collecte_Ville": "Val-des-Monts",
+        "Collecte_Codepostal": "J8N 4A6",
+        "Collecte_Longitude": -75.8068581371,
+        "Collecte_Latitude": 45.626221954
+    },
+    {
+        "index": 219,
+        "Collecte_Nom": "Multitech Environnement - Centre de conditionnement des CRD",
+        "Collecte_Adresse": "1610, rang Lusko (chemin de la carri\u00e8re Lafond)",
+        "Collecte_Ville": "Rouyn-Noranda",
+        "Collecte_Codepostal": "J0Z 1P0",
+        "Collecte_Longitude": -78.8904369689,
+        "Collecte_Latitude": 48.2855105155
+    },
+    {
+        "index": 220,
+        "Collecte_Nom": "\u00c9cocentre de Saint-\u00c9douard-de-Fabre",
+        "Collecte_Adresse": "641, route 391",
+        "Collecte_Ville": "Saint-\u00c9douard-de-Fabre",
+        "Collecte_Codepostal": "J0Z 3L0",
+        "Collecte_Longitude": -79.3525814955,
+        "Collecte_Latitude": 47.5081083644
+    },
+    {
+        "index": 221,
+        "Collecte_Nom": "D\u00e9chetterie de Longue-Pointe-de-Mingan",
+        "Collecte_Adresse": "800, chemin du Roi",
+        "Collecte_Ville": "Longue-Pointe-de-Mingan",
+        "Collecte_Codepostal": "G0G 1V0",
+        "Collecte_Longitude": -64.08810403,
+        "Collecte_Latitude": 50.2961896542
+    },
+    {
+        "index": 222,
+        "Collecte_Nom": "D\u00e9chetterie de Natashquan",
+        "Collecte_Adresse": "300, rue du Pr\u00e9 (route 138 ouest)",
+        "Collecte_Ville": "Natashquan",
+        "Collecte_Codepostal": "G0G 2E0",
+        "Collecte_Longitude": -61.9053185274,
+        "Collecte_Latitude": 50.2432100797
+    },
+    {
+        "index": 223,
+        "Collecte_Nom": "\u00c9cocentre de Schefferville",
+        "Collecte_Adresse": "550, chemin de la Gare",
+        "Collecte_Ville": "Schefferville",
+        "Collecte_Codepostal": "G0G 2T0",
+        "Collecte_Longitude": -66.8304057047,
+        "Collecte_Latitude": 54.8078514581
+    },
+    {
+        "index": 224,
+        "Collecte_Nom": "D\u00e9chetterie de Saint-Alphonse",
+        "Collecte_Adresse": "222, 5i\u00e8me Rang Est",
+        "Collecte_Ville": "Saint-Alphonse",
+        "Collecte_Codepostal": "G0C 2V0",
+        "Collecte_Longitude": -65.6249125021,
+        "Collecte_Latitude": 48.1518720319
+    },
+    {
+        "index": 225,
+        "Collecte_Nom": "Poste de transbordement - DMS - Saint-Z\u00e9non",
+        "Collecte_Adresse": "120, rang St-Fran\u00e7ois",
+        "Collecte_Ville": "Saint-Z\u00e9non",
+        "Collecte_Codepostal": "J0K 3N0",
+        "Collecte_Longitude": -73.8153344869,
+        "Collecte_Latitude": 46.5659594514
+    },
+    {
+        "index": 226,
+        "Collecte_Nom": "\u00c9cocentre de la Macaza",
+        "Collecte_Adresse": "1, chemin Roger-H\u00e9bert",
+        "Collecte_Ville": "La Macaza",
+        "Collecte_Codepostal": "J0T 1R0",
+        "Collecte_Longitude": -74.7743583249,
+        "Collecte_Latitude": 46.3667375283
+    },
+    {
+        "index": 227,
+        "Collecte_Nom": "\u00c9cocentre affili\u00e9 - R\u00e9gie intermunicipale des d\u00e9chets de la Rouge",
+        "Collecte_Adresse": "688, chemin du Parc Industriel",
+        "Collecte_Ville": "Rivi\u00e8re-Rouge",
+        "Collecte_Codepostal": "J0T 1T0",
+        "Collecte_Longitude": -74.7995937776,
+        "Collecte_Latitude": 46.3222395317
+    },
+    {
+        "index": 228,
+        "Collecte_Nom": "\u00c9cocentre mobile de Lac-Tremblant Nord",
+        "Collecte_Adresse": "9830, Rive Du Lac Tremblant ",
+        "Collecte_Ville": "Lac-Tremblant Nord",
+        "Collecte_Codepostal": "J8E 1B3",
+        "Collecte_Longitude": -74.6215917909,
+        "Collecte_Latitude": 46.2412557067
+    },
+    {
+        "index": 229,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Adolphe-d\u2019Howard",
+        "Collecte_Adresse": "1440, chemin du Village",
+        "Collecte_Ville": "Saint-Adolphe-d\u2019Howard",
+        "Collecte_Codepostal": "J0T 2B0",
+        "Collecte_Longitude": -74.3204559453,
+        "Collecte_Latitude": 45.9570122816
+    },
+    {
+        "index": 230,
+        "Collecte_Nom": "\u00c9cocentre de Wentworth-Nord",
+        "Collecte_Adresse": "3488, route Principale",
+        "Collecte_Ville": "Wentworth-Nord",
+        "Collecte_Codepostal": "J0T 1Y0",
+        "Collecte_Longitude": -74.457887588,
+        "Collecte_Latitude": 45.8474648971
+    },
+    {
+        "index": 231,
+        "Collecte_Nom": "\u00c9cocentre de l\u2019Est\u00e9rel",
+        "Collecte_Adresse": "115, chemin Dupuis",
+        "Collecte_Ville": "Est\u00e9rel",
+        "Collecte_Codepostal": "J0T 1L0",
+        "Collecte_Longitude": -74.0584869574,
+        "Collecte_Latitude": 46.0323515278
+    },
+    {
+        "index": 232,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Marguerite-du-Lac-Masson",
+        "Collecte_Adresse": "245, chemin Masson",
+        "Collecte_Ville": "Sainte-Marguerite-du-Lac-Masson",
+        "Collecte_Codepostal": "J0T 1L0",
+        "Collecte_Longitude": -74.0652173916,
+        "Collecte_Latitude": 46.0360985949
+    },
+    {
+        "index": 233,
+        "Collecte_Nom": "\u00c9cocentre mobile de Lac-Seize-\u00celes",
+        "Collecte_Adresse": "10, rue de Lapierre",
+        "Collecte_Ville": "Lac-Seize-\u00celes",
+        "Collecte_Codepostal": "J0T 2M0",
+        "Collecte_Longitude": -74.4678179624,
+        "Collecte_Latitude": 45.9231194024
+    },
+    {
+        "index": 234,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Zotique",
+        "Collecte_Adresse": "2050, rue Principale",
+        "Collecte_Ville": "Saint-Zotique",
+        "Collecte_Codepostal": "J0P 1Z0",
+        "Collecte_Longitude": -74.277282744,
+        "Collecte_Latitude": 45.2331483695
+    },
+    {
+        "index": 235,
+        "Collecte_Nom": "\u00c9cocentre de l'\u00cele",
+        "Collecte_Adresse": "750, boul. Olympique",
+        "Collecte_Ville": "Pincourt",
+        "Collecte_Codepostal": "J7W 7C8",
+        "Collecte_Longitude": -73.9855276775,
+        "Collecte_Latitude": 45.361721575
+    },
+    {
+        "index": 236,
+        "Collecte_Nom": "Ateliers municipaux - La Prairie",
+        "Collecte_Adresse": "725, rue Bernier",
+        "Collecte_Ville": "La Prairie",
+        "Collecte_Codepostal": "J5R 5W6",
+        "Collecte_Longitude": -73.4945574549,
+        "Collecte_Latitude": 45.3998596944
+    },
+    {
+        "index": 237,
+        "Collecte_Nom": "\u00c9coservices Tria",
+        "Collecte_Adresse": "1985, rue Jean-Marie-Langlois",
+        "Collecte_Ville": "La Prairie",
+        "Collecte_Codepostal": "J5R 5Z8",
+        "Collecte_Longitude": -73.5028409755,
+        "Collecte_Latitude": 45.3958029154
+    },
+    {
+        "index": 238,
+        "Collecte_Nom": "D\u00e9p\u00f4t de d\u00e9chets secs de Delson",
+        "Collecte_Adresse": "61, rue Beauvais (garage municipal)",
+        "Collecte_Ville": "Delson",
+        "Collecte_Codepostal": "J5B 1W5",
+        "Collecte_Longitude": -73.5412543865,
+        "Collecte_Latitude": 45.377885565
+    },
+    {
+        "index": 239,
+        "Collecte_Nom": "\u00c9cocentre de Mercier",
+        "Collecte_Adresse": "485, boul. Saint-Jean-Baptiste",
+        "Collecte_Ville": "Mercier",
+        "Collecte_Codepostal": "J6R 2A9",
+        "Collecte_Longitude": -73.736226855,
+        "Collecte_Latitude": 45.3271648728
+    },
+    {
+        "index": 240,
+        "Collecte_Nom": "D\u00e9p\u00f4t du garage municipal de Saint-Mathieu",
+        "Collecte_Adresse": "311, chemin Saint-\u00c9douard",
+        "Collecte_Ville": "Saint-Mathieu",
+        "Collecte_Codepostal": "J0L 2H0",
+        "Collecte_Longitude": -73.5161381516,
+        "Collecte_Latitude": 45.3115796197
+    },
+    {
+        "index": 241,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Philippe",
+        "Collecte_Adresse": "68, mont\u00e9e Monette",
+        "Collecte_Ville": "Saint-Philippe",
+        "Collecte_Codepostal": "J0L 2K0",
+        "Collecte_Longitude": -73.4783038734,
+        "Collecte_Latitude": 45.3516329099
+    },
+    {
+        "index": 242,
+        "Collecte_Nom": "D\u00e9p\u00f4t du garage municipal de Sainte-Catherine",
+        "Collecte_Adresse": "5900, boul. Saint-Laurent",
+        "Collecte_Ville": "Sainte-Catherine",
+        "Collecte_Codepostal": "J5C 1B2",
+        "Collecte_Longitude": -73.583768983,
+        "Collecte_Latitude": 45.4015061735
+    },
+    {
+        "index": 243,
+        "Collecte_Nom": "\u00c9cocentre - D\u00e9p\u00f4t des mat\u00e9riaux secs et poste de transition du bois",
+        "Collecte_Adresse": "2400, boul. Industriel",
+        "Collecte_Ville": "Chambly",
+        "Collecte_Codepostal": "J3L 4X3",
+        "Collecte_Longitude": -77.6766513823,
+        "Collecte_Latitude": 49.7343224114
+    },
+    {
+        "index": 244,
+        "Collecte_Nom": "D\u00e9p\u00f4t des r\u00e9sidus domestiques dangereux (RDD) - Veolia",
+        "Collecte_Adresse": "2630, boul. Industriel",
+        "Collecte_Ville": "Chambly",
+        "Collecte_Codepostal": "J3L 4V2",
+        "Collecte_Longitude": -73.2793619106,
+        "Collecte_Latitude": 45.423685233
+    },
+    {
+        "index": 245,
+        "Collecte_Nom": "D\u00e9p\u00f4t de mat\u00e9riaux secs de McMasterville",
+        "Collecte_Adresse": "150, rue Nadeau (garage municipal)",
+        "Collecte_Ville": "McMasterville",
+        "Collecte_Codepostal": "J3G 1G6",
+        "Collecte_Longitude": -73.2207204377,
+        "Collecte_Latitude": 45.5475780222
+    },
+    {
+        "index": 246,
+        "Collecte_Nom": "D\u00e9p\u00f4t de mat\u00e9riaux secs de Saint-Jean-Baptiste",
+        "Collecte_Adresse": "3105, rue L\u00e9veill\u00e9e (garage municipal)",
+        "Collecte_Ville": "Saint-Jean-Baptiste",
+        "Collecte_Codepostal": "J0L 2B0",
+        "Collecte_Longitude": -73.1261914842,
+        "Collecte_Latitude": 45.5202728672
+    },
+    {
+        "index": 247,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Ferdinand",
+        "Collecte_Adresse": "630A, route 165",
+        "Collecte_Ville": "Saint-Ferdinand",
+        "Collecte_Codepostal": "G0N 1N0",
+        "Collecte_Longitude": -71.5944826122,
+        "Collecte_Latitude": 46.1458990926
+    },
+    {
+        "index": 248,
+        "Collecte_Nom": "\u00c9cocentre de Princeville - Enfoui-Bec ",
+        "Collecte_Adresse": "100, boul. Carignan Ouest",
+        "Collecte_Ville": "Princeville",
+        "Collecte_Codepostal": "G6L 5P8",
+        "Collecte_Longitude": -71.8874900595,
+        "Collecte_Latitude": 46.1589685119
+    },
+    {
+        "index": 249,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Lin-Laurentides",
+        "Collecte_Adresse": "217, rue Industrielle",
+        "Collecte_Ville": "Saint-Lin-Laurentides",
+        "Collecte_Codepostal": "J5M 2S9",
+        "Collecte_Longitude": -73.7599467599,
+        "Collecte_Latitude": 45.8407468492
+    },
+    {
+        "index": 250,
+        "Collecte_Nom": "Garage municipal de Carignan",
+        "Collecte_Adresse": "2555, chemin Bellevue",
+        "Collecte_Ville": "Carignan",
+        "Collecte_Codepostal": "J3L 6G8",
+        "Collecte_Longitude": -73.329547193,
+        "Collecte_Latitude": 45.4657537523
+    },
+    {
+        "index": 251,
+        "Collecte_Nom": "\u00c9cocentre du Canton de Lochaber",
+        "Collecte_Adresse": "259, Mont\u00e9e du Gore",
+        "Collecte_Ville": "Lochaber",
+        "Collecte_Codepostal": "J0X 3B0",
+        "Collecte_Longitude": -75.1626328549,
+        "Collecte_Latitude": 45.6067964674
+    },
+    {
+        "index": 252,
+        "Collecte_Nom": "REL de Gu\u00e9rin",
+        "Collecte_Adresse": "917, rue Principale Nord",
+        "Collecte_Ville": "Gu\u00e9rin",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -79.3147947823,
+        "Collecte_Latitude": 47.659004711
+    },
+    {
+        "index": 253,
+        "Collecte_Nom": "REL de Belleterre",
+        "Collecte_Adresse": "93, 1re rue (en arri\u00e8re du garage municipal)",
+        "Collecte_Ville": "Belleterre",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -78.7036615095,
+        "Collecte_Latitude": 47.3935201393
+    },
+    {
+        "index": 254,
+        "Collecte_Nom": "REL de T\u00e9miscaming",
+        "Collecte_Adresse": "121, rue du Parc-Industriel",
+        "Collecte_Ville": "T\u00e9miscaming",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -79.0731271987,
+        "Collecte_Latitude": 46.7420255127
+    },
+    {
+        "index": 255,
+        "Collecte_Nom": "\u00c9cocentre de Deschaillons",
+        "Collecte_Adresse": "1995, route Marie-Victorin",
+        "Collecte_Ville": "Deschaillons-sur-Saint-Laurent",
+        "Collecte_Codepostal": "G0S 1G0",
+        "Collecte_Longitude": -72.1318131424,
+        "Collecte_Latitude": 46.5475908047
+    },
+    {
+        "index": 256,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Laurierville",
+        "Collecte_Adresse": "477, avenue Provencher",
+        "Collecte_Ville": "Laurierville",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -71.6557424434,
+        "Collecte_Latitude": 46.2936701114
+    },
+    {
+        "index": 257,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Ville Plessisville",
+        "Collecte_Adresse": "1045, avenue Saint-\u00c9douard",
+        "Collecte_Ville": "Plessisville",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -71.7667614873,
+        "Collecte_Latitude": 46.2141507824
+    },
+    {
+        "index": 258,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Ville Princeville",
+        "Collecte_Adresse": "480, rue Saint-Jean-Baptiste Sud",
+        "Collecte_Ville": "Princeville",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -71.8696021756,
+        "Collecte_Latitude": 46.1665167541
+    },
+    {
+        "index": 259,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Paroisse Plessisville",
+        "Collecte_Adresse": "290, Route 165 Sud",
+        "Collecte_Ville": "Plessisville",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -71.752218581,
+        "Collecte_Latitude": 46.2054584895
+    },
+    {
+        "index": 260,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Saint-Ferdinand",
+        "Collecte_Adresse": "630 A, route 165",
+        "Collecte_Ville": "Saint-Ferdinand",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -71.5944826122,
+        "Collecte_Latitude": 46.1458990926
+    },
+    {
+        "index": 261,
+        "Collecte_Nom": "Aires de r\u00e9ception des mati\u00e8res r\u00e9siduelles - Secteur Rivi\u00e8re-Pentec\u00f4te",
+        "Collecte_Adresse": "4344, rue des Pionniers",
+        "Collecte_Ville": "Port-Cartier",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -67.1722973884,
+        "Collecte_Latitude": 49.7799147128
+    },
+    {
+        "index": 262,
+        "Collecte_Nom": "Aires de r\u00e9ception des mati\u00e8res r\u00e9siduelles - Secteur Gallix",
+        "Collecte_Adresse": "524, rue Lapierre",
+        "Collecte_Ville": "Sept-\u00celes ",
+        "Collecte_Codepostal": "G0G 1L0",
+        "Collecte_Longitude": -66.6196133544,
+        "Collecte_Latitude": 50.1381402699
+    },
+    {
+        "index": 263,
+        "Collecte_Nom": "Aires de r\u00e9ception des mati\u00e8res r\u00e9siduelles - Secteur Clarke",
+        "Collecte_Adresse": "625, rue de l\u2019\u00c9glise",
+        "Collecte_Ville": "Sept-\u00celes ",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -66.6318366273,
+        "Collecte_Latitude": 50.1779112307
+    },
+    {
+        "index": 264,
+        "Collecte_Nom": "Aires de r\u00e9ception des mati\u00e8res r\u00e9siduelles - Secteur Moisie",
+        "Collecte_Adresse": "1 300, route Jacques-Cartier",
+        "Collecte_Ville": "Port-Cartier",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -71.6176692208,
+        "Collecte_Latitude": 46.8435933108
+    },
+    {
+        "index": 265,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t pour r\u00e9sidus domestiques dangereux (RDD) - Nominingue",
+        "Collecte_Adresse": "670, rue Ste-Anne",
+        "Collecte_Ville": "Nominingue",
+        "Collecte_Codepostal": "J0W 1R0",
+        "Collecte_Longitude": -75.0559852237,
+        "Collecte_Latitude": 46.4111363512
+    },
+    {
+        "index": 266,
+        "Collecte_Nom": "\u00c9cocentre mobile - Nominingue",
+        "Collecte_Adresse": "670, rue Ste-Anne",
+        "Collecte_Ville": "Nominingue",
+        "Collecte_Codepostal": "J0W 1R0",
+        "Collecte_Longitude": -75.0559852237,
+        "Collecte_Latitude": 46.4111363512
+    },
+    {
+        "index": 267,
+        "Collecte_Nom": "Recyclage Foucault",
+        "Collecte_Adresse": "21 chemin de l\u2019\u00c9cocentre",
+        "Collecte_Ville": "Grenville",
+        "Collecte_Codepostal": "J0V 1J0",
+        "Collecte_Longitude": -74.5870843068,
+        "Collecte_Latitude": 45.6233755213
+    },
+    {
+        "index": 268,
+        "Collecte_Nom": "Garage municipal de Cap-Saint-Ignace",
+        "Collecte_Adresse": "850, route du Souvenir",
+        "Collecte_Ville": "Cap-Saint-Ignace",
+        "Collecte_Codepostal": "G0R 1H0",
+        "Collecte_Longitude": -70.4413319385,
+        "Collecte_Latitude": 47.0313785953
+    },
+    {
+        "index": 269,
+        "Collecte_Nom": "\u00c9cocentre de l'Anse-Saint-Jean",
+        "Collecte_Adresse": "31, chemin Saint-Thomas Sud",
+        "Collecte_Ville": "L'Anse-Saint-Jean",
+        "Collecte_Codepostal": "G0V 1J0",
+        "Collecte_Longitude": -70.2330632347,
+        "Collecte_Latitude": 48.2159157551
+    },
+    {
+        "index": 270,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Berthier-sur-Mer",
+        "Collecte_Adresse": "14, route de Saint-Fran\u00e7ois",
+        "Collecte_Ville": "Berthier-sur-Mer",
+        "Collecte_Codepostal": "G0R 1E0",
+        "Collecte_Longitude": -70.7303802789,
+        "Collecte_Latitude": 46.9236134604
+    },
+    {
+        "index": 271,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Wotton",
+        "Collecte_Adresse": "533, rue Parc-Industriel",
+        "Collecte_Ville": "Wotton",
+        "Collecte_Codepostal": "J0A 1N0",
+        "Collecte_Longitude": -71.8051086999,
+        "Collecte_Latitude": 45.738039962
+    },
+    {
+        "index": 272,
+        "Collecte_Nom": "\u00c9cocentre Lac-des-Plages",
+        "Collecte_Adresse": "2053, chemin du Tour-du-Lac",
+        "Collecte_Ville": "Lac-des-Plages",
+        "Collecte_Codepostal": "J0T 1K0",
+        "Collecte_Longitude": -74.8849060508,
+        "Collecte_Latitude": 45.9996737618
+    },
+    {
+        "index": 273,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Lac-Fronti\u00e8re",
+        "Collecte_Adresse": "22, rue de l'\u00c9glise",
+        "Collecte_Ville": "Lac-Fronti\u00e8re",
+        "Collecte_Codepostal": "G0R 1T0",
+        "Collecte_Longitude": -70.0031527494,
+        "Collecte_Latitude": 46.6956998681
+    },
+    {
+        "index": 274,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Sainte-Apolline-de-Patton",
+        "Collecte_Adresse": "499, rue Principale",
+        "Collecte_Ville": "Sainte-Apolline-de-Patton",
+        "Collecte_Codepostal": "G0R 2P0",
+        "Collecte_Longitude": -70.1972461875,
+        "Collecte_Latitude": 46.8063223624
+    },
+    {
+        "index": 275,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Sainte-Lucie-de-Beauregard",
+        "Collecte_Adresse": "26B, rue de l\u2019\u00c9glise",
+        "Collecte_Ville": "Sainte-Lucie-de-Beauregard",
+        "Collecte_Codepostal": "G0R 3L0",
+        "Collecte_Longitude": -70.0252748328,
+        "Collecte_Latitude": 46.7382379091
+    },
+    {
+        "index": 276,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud",
+        "Collecte_Adresse": "35, chemin Saint-Fran\u00e7ois Est",
+        "Collecte_Ville": "Saint-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud",
+        "Collecte_Codepostal": "G0R 3A0",
+        "Collecte_Longitude": -70.695398309,
+        "Collecte_Latitude": 46.900507896
+    },
+    {
+        "index": 277,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-Paul-de-Montminy",
+        "Collecte_Adresse": "294, route 216",
+        "Collecte_Ville": "Saint-Paul-de-Montminy",
+        "Collecte_Codepostal": "G0R 3Y0",
+        "Collecte_Longitude": -70.3573016959,
+        "Collecte_Latitude": 46.7281376106
+    },
+    {
+        "index": 278,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Notre-Dame-du-Rosaire",
+        "Collecte_Adresse": "28, rue Saint-Thomas",
+        "Collecte_Ville": "Notre-Dame-du-Rosaire",
+        "Collecte_Codepostal": "G0R 2H0",
+        "Collecte_Longitude": -70.3891420383,
+        "Collecte_Latitude": 46.8253814389
+    },
+    {
+        "index": 279,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Sainte-Euph\u00e9mie-sur-Rivi\u00e8re-du-Sud",
+        "Collecte_Adresse": "220, rue Principale Est",
+        "Collecte_Ville": "Sainte-Euph\u00e9mie-sur-Rivi\u00e8re-du-Sud",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -70.436720675,
+        "Collecte_Latitude": 46.7759313971
+    },
+    {
+        "index": 280,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Lanoraie",
+        "Collecte_Adresse": "297, rue Notre-Dame",
+        "Collecte_Ville": "Lanoraie",
+        "Collecte_Codepostal": "J5T 3J9",
+        "Collecte_Longitude": -73.2240246519,
+        "Collecte_Latitude": 45.9553593958
+    },
+    {
+        "index": 281,
+        "Collecte_Nom": "\u00c9cocentre MRC Pierre-De Saurel",
+        "Collecte_Adresse": "3145, rue Joseph-Simard",
+        "Collecte_Ville": "Sorel-Tracy",
+        "Collecte_Codepostal": "J3P 7A3",
+        "Collecte_Longitude": -73.1614819277,
+        "Collecte_Latitude": 46.000859468
+    },
+    {
+        "index": 282,
+        "Collecte_Nom": "\u00c9cocentre Napierville",
+        "Collecte_Adresse": "240, rue Poupart",
+        "Collecte_Ville": "Napierville",
+        "Collecte_Codepostal": "J0J 1L0",
+        "Collecte_Longitude": -73.3940531755,
+        "Collecte_Latitude": 45.1940929983
+    },
+    {
+        "index": 283,
+        "Collecte_Nom": "\u00c9cocentre Notre-Dame-de-la-Salette",
+        "Collecte_Adresse": "13, rue du Rollin",
+        "Collecte_Ville": "Notre-Dame-de-la-Salette",
+        "Collecte_Codepostal": "J0X 2L0",
+        "Collecte_Longitude": -75.583005415,
+        "Collecte_Latitude": 45.7676989125
+    },
+    {
+        "index": 284,
+        "Collecte_Nom": "\u00c9cocentre Chapais",
+        "Collecte_Adresse": "31, chemin Cooke",
+        "Collecte_Ville": "Chapais",
+        "Collecte_Codepostal": "G0W 1H0",
+        "Collecte_Longitude": -74.8620716154,
+        "Collecte_Latitude": 49.7896818753
+    },
+    {
+        "index": 285,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-Chrysostome",
+        "Collecte_Adresse": "400, rang Saint-Antoine",
+        "Collecte_Ville": "Saint-Chrysostome",
+        "Collecte_Codepostal": "J0S 1R0",
+        "Collecte_Longitude": -73.7676114684,
+        "Collecte_Latitude": 45.1023669442
+    },
+    {
+        "index": 286,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal -Saint-Pierre-les-Becquets",
+        "Collecte_Adresse": "163, route 218",
+        "Collecte_Ville": "Saint-Pierre-les-Becquets",
+        "Collecte_Codepostal": "G0X 2Z0",
+        "Collecte_Longitude": -72.1963352745,
+        "Collecte_Latitude": 46.4977415927
+    },
+    {
+        "index": 287,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Aston-Jonction",
+        "Collecte_Adresse": "55, Rue Blais",
+        "Collecte_Ville": "Aston-Jonction",
+        "Collecte_Codepostal": "G0Z 1A0",
+        "Collecte_Longitude": -72.2253995974,
+        "Collecte_Latitude": 46.1689409124
+    },
+    {
+        "index": 288,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal -Baie-du-F\u00e8bvre",
+        "Collecte_Adresse": "298, rue Principale (terrain des Loisirs)",
+        "Collecte_Ville": "Baie-du-Febvre",
+        "Collecte_Codepostal": "J0G 1A0",
+        "Collecte_Longitude": -72.7211420322,
+        "Collecte_Latitude": 46.1367932156
+    },
+    {
+        "index": 289,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-Z\u00e9phirin-de-Courval",
+        "Collecte_Adresse": "1471, rang Saint-Pierre",
+        "Collecte_Ville": "Saint-Z\u00e9phirin-de-Courval",
+        "Collecte_Codepostal": "J0G 1V0",
+        "Collecte_Longitude": -72.6150282012,
+        "Collecte_Latitude": 46.0520789146
+    },
+    {
+        "index": 290,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-L\u00e9onard-d'Aston",
+        "Collecte_Adresse": "444, rue de l'Exposition",
+        "Collecte_Ville": "Saint-L\u00e9onard-d'Aston",
+        "Collecte_Codepostal": "J0C 1M0",
+        "Collecte_Longitude": -72.375955596,
+        "Collecte_Latitude": 46.1076382723
+    },
+    {
+        "index": 291,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-C\u00e9lestin",
+        "Collecte_Adresse": "425, rue Ellyson",
+        "Collecte_Ville": "Saint-C\u00e9lestin",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -72.4284700385,
+        "Collecte_Latitude": 46.213343411
+    },
+    {
+        "index": 292,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Sainte-Monique",
+        "Collecte_Adresse": "310, rue Saint-Antoine",
+        "Collecte_Ville": "Sainte-Monique",
+        "Collecte_Codepostal": "J0G 1N0",
+        "Collecte_Longitude": -72.5397840026,
+        "Collecte_Latitude": 46.1580152256
+    },
+    {
+        "index": 293,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - W\u00f4linak",
+        "Collecte_Adresse": "10275, rue Leblanc, local 121",
+        "Collecte_Ville": "W\u00f4linak",
+        "Collecte_Codepostal": "G9H 2X4",
+        "Collecte_Longitude": -72.4239862297,
+        "Collecte_Latitude": 46.3272782913
+    },
+    {
+        "index": 294,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal -Saint-Roch-des-Aulnaies",
+        "Collecte_Adresse": "379, route de l'\u00c9glise",
+        "Collecte_Ville": "Saint-Roch-des-Aulnaies",
+        "Collecte_Codepostal": "G0R 4E0",
+        "Collecte_Longitude": -70.1724504923,
+        "Collecte_Latitude": 47.3079554419
+    },
+    {
+        "index": 295,
+        "Collecte_Nom": "Garage municipal - \u00c9difice L\u00e9on-Taillon",
+        "Collecte_Adresse": "200, rue Bella-Vista",
+        "Collecte_Ville": "Saint-Basile-le-Grand",
+        "Collecte_Codepostal": "J3N 1M1",
+        "Collecte_Longitude": -73.2807364528,
+        "Collecte_Latitude": 45.5080436519
+    },
+    {
+        "index": 296,
+        "Collecte_Nom": "D\u00e9p\u00f4t volontaire du verre - Eastman",
+        "Collecte_Adresse": "21, rue Lapointe",
+        "Collecte_Ville": "Eastman",
+        "Collecte_Codepostal": "J0E 1P0",
+        "Collecte_Longitude": -72.3158567961,
+        "Collecte_Latitude": 45.3000125868
+    },
+    {
+        "index": 297,
+        "Collecte_Nom": "D\u00e9p\u00f4t volontaire du verre - Canton de Hatley",
+        "Collecte_Adresse": "4765, chemin de Capelton",
+        "Collecte_Ville": "Canton-de-Hatley",
+        "Collecte_Codepostal": "J0B 2C0",
+        "Collecte_Longitude": -71.9357167366,
+        "Collecte_Latitude": 45.3000472177
+    },
+    {
+        "index": 298,
+        "Collecte_Nom": "D\u00e9p\u00f4t volontaire du verre - Boucherville",
+        "Collecte_Adresse": "1075, rue Lionel-Daunais",
+        "Collecte_Ville": "Boucherville",
+        "Collecte_Codepostal": "J4B 8N5",
+        "Collecte_Longitude": -73.4281266356,
+        "Collecte_Latitude": 45.5896221858
+    },
+    {
+        "index": 299,
+        "Collecte_Nom": "\u00c9cocentre de Pointe-Claire",
+        "Collecte_Adresse": "50, avenue Terra-Cotta",
+        "Collecte_Ville": "Pointe-Claire",
+        "Collecte_Codepostal": "H9R 5A4",
+        "Collecte_Longitude": -73.8098599784,
+        "Collecte_Latitude": 45.4488755878
+    },
+    {
+        "index": 300,
+        "Collecte_Nom": "\u00c9cocentre LaSalle",
+        "Collecte_Adresse": "7272, rue Saint-Patrick",
+        "Collecte_Ville": "Montr\u00e9al",
+        "Collecte_Codepostal": "H8N 2W7",
+        "Collecte_Longitude": -73.6264719847,
+        "Collecte_Latitude": 45.4475079511
+    },
+    {
+        "index": 301,
+        "Collecte_Nom": "\u00c9cocentre Saint-Laurent",
+        "Collecte_Adresse": "3535, rue Sartelon",
+        "Collecte_Ville": "Montr\u00e9al",
+        "Collecte_Codepostal": "H4R 1E6",
+        "Collecte_Longitude": -73.7393199261,
+        "Collecte_Latitude": 45.5116896024
+    },
+    {
+        "index": 302,
+        "Collecte_Nom": "\u00c9cocentre - Centre de transbordement de Grande-Entr\u00e9e",
+        "Collecte_Adresse": "214, route 199",
+        "Collecte_Ville": "\u00celes-de-la-Madeleine",
+        "Collecte_Codepostal": "G4T 7B1",
+        "Collecte_Longitude": -61.5133064999,
+        "Collecte_Latitude": 47.5653819656
+    },
+    {
+        "index": 303,
+        "Collecte_Nom": "\u00c9cocentre - Secteur de Saint-Augustin",
+        "Collecte_Adresse": "15020, rue Louis-M.-Taillon",
+        "Collecte_Ville": "Mirabel",
+        "Collecte_Codepostal": "J7N 2K4",
+        "Collecte_Longitude": -73.9827740342,
+        "Collecte_Latitude": 45.6278448118
+    },
+    {
+        "index": 304,
+        "Collecte_Nom": "\u00c9cocentre - Secteur de Saint-Janvier",
+        "Collecte_Adresse": "14645, rue Joseph-Marc-Vermette",
+        "Collecte_Ville": "Mirabel",
+        "Collecte_Codepostal": "J7J 1X2",
+        "Collecte_Longitude": -73.9908120798,
+        "Collecte_Latitude": 45.6358768951
+    },
+    {
+        "index": 305,
+        "Collecte_Nom": "\u00c9cocentre d'Amos",
+        "Collecte_Adresse": "5311, route 395 Nord",
+        "Collecte_Ville": "Amos",
+        "Collecte_Codepostal": "J9T 3A1",
+        "Collecte_Longitude": -73.5746429666,
+        "Collecte_Latitude": 45.5462129685
+    },
+    {
+        "index": 306,
+        "Collecte_Nom": "\u00c9cocentre satellite de Baie-Carri\u00e8re",
+        "Collecte_Adresse": "977, chemin de la Baie-Carri\u00e8re",
+        "Collecte_Ville": "Val-d'Or ",
+        "Collecte_Codepostal": "J9P 4P4",
+        "Collecte_Longitude": -79.1978297552,
+        "Collecte_Latitude": 47.024637722
+    },
+    {
+        "index": 307,
+        "Collecte_Nom": "\u00c9cocentre de Baie-Saint-Paul et Petite-Rivi\u00e8re-Saint-Fran\u00e7ois",
+        "Collecte_Adresse": "74, rang Saint-Placide Sud",
+        "Collecte_Ville": "Baie-Saint-Paul ",
+        "Collecte_Codepostal": "G3Z 3A9",
+        "Collecte_Longitude": -70.856133201,
+        "Collecte_Latitude": 46.1430745453
+    },
+    {
+        "index": 308,
+        "Collecte_Nom": "\u00c9cocentre de Baie-Trinit\u00e9 - ferm\u00e9 temporairement",
+        "Collecte_Adresse": "route 138",
+        "Collecte_Ville": "Baie-Trinit\u00e9 ",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -67.2332625538,
+        "Collecte_Latitude": 49.482415134
+    },
+    {
+        "index": 309,
+        "Collecte_Nom": "\u00c9cocentre de Barraute",
+        "Collecte_Adresse": "451, rue du Moulin",
+        "Collecte_Ville": "Barraute ",
+        "Collecte_Codepostal": "J0Y 1A0",
+        "Collecte_Longitude": -77.6381000508,
+        "Collecte_Latitude": 48.4369409111
+    },
+    {
+        "index": 310,
+        "Collecte_Nom": "\u00c9cocentre de Ch\u00e2teau-Richer Sainte-Anne-de-Beaupr\u00e9",
+        "Collecte_Adresse": "30, C\u00f4te de la Chapelle",
+        "Collecte_Ville": "Ch\u00e2teau-Richer ",
+        "Collecte_Codepostal": "G0A 1N0",
+        "Collecte_Longitude": -71.0550614654,
+        "Collecte_Latitude": 47.0378422266
+    },
+    {
+        "index": 311,
+        "Collecte_Nom": "\u00c9cocentre de Grande-Vall\u00e9e",
+        "Collecte_Adresse": "222, rue de la Rivi\u00e8re",
+        "Collecte_Ville": "Grande Vall\u00e9e ",
+        "Collecte_Codepostal": "G0E 1K0",
+        "Collecte_Longitude": -64.4838889414,
+        "Collecte_Latitude": 48.3991360225
+    },
+    {
+        "index": 312,
+        "Collecte_Nom": "\u00c9cocentre de H\u00e9rouxville",
+        "Collecte_Adresse": "Rang Saint-Pierre Nord",
+        "Collecte_Ville": "H\u00e9rouxville ",
+        "Collecte_Codepostal": "G0X 1J0",
+        "Collecte_Longitude": -72.6699210323,
+        "Collecte_Latitude": 46.712499275
+    },
+    {
+        "index": 313,
+        "Collecte_Nom": "\u00c9cocentre de La Guadeloupe",
+        "Collecte_Adresse": "390, 23e avenue",
+        "Collecte_Ville": "La Guadeloupe",
+        "Collecte_Codepostal": "G0M 1G0",
+        "Collecte_Longitude": -70.9383690006,
+        "Collecte_Latitude": 45.959287686
+    },
+    {
+        "index": 314,
+        "Collecte_Nom": "\u00c9cocentre de la Pocati\u00e8re",
+        "Collecte_Adresse": "410, 14e Rue B\u00e9rub\u00e9",
+        "Collecte_Ville": "La Pocati\u00e8re ",
+        "Collecte_Codepostal": "G0R 1Z0",
+        "Collecte_Longitude": -70.0370086514,
+        "Collecte_Latitude": 47.3678693609
+    },
+    {
+        "index": 315,
+        "Collecte_Nom": "\u00c9cocentre de La Tuque",
+        "Collecte_Adresse": "1220, chemin des Pionniers",
+        "Collecte_Ville": "La Tuque",
+        "Collecte_Codepostal": "G9X 3N6",
+        "Collecte_Longitude": -72.7362009065,
+        "Collecte_Latitude": 47.4622220024
+    },
+    {
+        "index": 316,
+        "Collecte_Nom": "\u00c9cocentre de la Vall\u00e9e-de-la-Gatineau",
+        "Collecte_Adresse": "161, rue du Parc Industriel",
+        "Collecte_Ville": "Maniwaki ",
+        "Collecte_Codepostal": "J9E 3P3",
+        "Collecte_Longitude": -75.9659694759,
+        "Collecte_Latitude": 46.3753700865
+    },
+    {
+        "index": 317,
+        "Collecte_Nom": "\u00c9cocentre de L'\u00c9rable",
+        "Collecte_Adresse": "990, route 265 Nord",
+        "Collecte_Ville": "Plessisville",
+        "Collecte_Codepostal": "G0S 1T0",
+        "Collecte_Longitude": -71.6130986369,
+        "Collecte_Latitude": 46.710033494
+    },
+    {
+        "index": 318,
+        "Collecte_Nom": "\u00c9cocentre de Mitis",
+        "Collecte_Adresse": "428, avenue Roger-Marcoux",
+        "Collecte_Ville": "Mont-Joli",
+        "Collecte_Codepostal": "G0J 2L0",
+        "Collecte_Longitude": -68.2000584185,
+        "Collecte_Latitude": 48.6049752375
+    },
+    {
+        "index": 319,
+        "Collecte_Nom": "\u00c9cocentre de Mont-Louis",
+        "Collecte_Adresse": "9, avenue B",
+        "Collecte_Ville": "Saint-Maxime-du-Mont-Louis",
+        "Collecte_Codepostal": "G0E 1T0",
+        "Collecte_Longitude": -65.728410183,
+        "Collecte_Latitude": 49.2288970152
+    },
+    {
+        "index": 320,
+        "Collecte_Nom": "\u00c9cocentre de Portneuf-sur-Mer",
+        "Collecte_Adresse": "2A, route 138",
+        "Collecte_Ville": "Portneuf-sur-Mer ",
+        "Collecte_Codepostal": "G0T 1P0",
+        "Collecte_Longitude": -69.0953539766,
+        "Collecte_Latitude": 48.6651662706
+    },
+    {
+        "index": 321,
+        "Collecte_Nom": "\u00c9cocentre de Rochebaucourt",
+        "Collecte_Adresse": "315, route 397",
+        "Collecte_Ville": "Rochebaucourt ",
+        "Collecte_Codepostal": "J0Y 2J0",
+        "Collecte_Longitude": -71.0102869796,
+        "Collecte_Latitude": 45.8878165042
+    },
+    {
+        "index": 322,
+        "Collecte_Nom": "\u00c9cocentre satellite de Sacr\u00e9-C\u0153ur",
+        "Collecte_Adresse": "rue Gagn\u00e9",
+        "Collecte_Ville": "Sacr\u00e9-C\u0153ur ",
+        "Collecte_Codepostal": "G0T 1Y0",
+        "Collecte_Longitude": -69.8002962462,
+        "Collecte_Latitude": 48.2293669277
+    },
+    {
+        "index": 323,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Ambroise",
+        "Collecte_Adresse": "470, rue des Producteurs ",
+        "Collecte_Ville": "Saint-Ambroise ",
+        "Collecte_Codepostal": "G7P 2N5",
+        "Collecte_Longitude": -71.2982162483,
+        "Collecte_Latitude": 48.5425689698
+    },
+    {
+        "index": 324,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Andr\u00e9-Avellin",
+        "Collecte_Adresse": "2, rue Bourgeois Nord",
+        "Collecte_Ville": "Saint-Andr\u00e9-Avellin",
+        "Collecte_Codepostal": "J0V 1W0",
+        "Collecte_Longitude": -75.0554661813,
+        "Collecte_Latitude": 45.7249190908
+    },
+    {
+        "index": 325,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Constant",
+        "Collecte_Adresse": "25, mont\u00e9e Lasaline",
+        "Collecte_Ville": "Saint-Constant",
+        "Collecte_Codepostal": "J5A 2A0",
+        "Collecte_Longitude": -70.6825492659,
+        "Collecte_Latitude": 46.1155149398
+    },
+    {
+        "index": 326,
+        "Collecte_Nom": "\u00c9cocentre de Saint-David-de-Falardeau",
+        "Collecte_Adresse": "Embranchement 2 du Lac S\u00e9bastien",
+        "Collecte_Ville": "Saint-David-de-Falardeau ",
+        "Collecte_Codepostal": "G0V 1C0",
+        "Collecte_Longitude": -71.1785763119,
+        "Collecte_Latitude": 48.6510974298
+    },
+    {
+        "index": 327,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Perp\u00e9tue",
+        "Collecte_Adresse": "2, rang Brise-Culotte",
+        "Collecte_Ville": "Sainte-Perp\u00e9tue",
+        "Collecte_Codepostal": "G0R 3Z0",
+        "Collecte_Longitude": -69.8844537103,
+        "Collecte_Latitude": 47.0471099751
+    },
+    {
+        "index": 328,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Claire",
+        "Collecte_Adresse": "30, rue Industrielle",
+        "Collecte_Ville": "Sainte-Claire",
+        "Collecte_Codepostal": "G0R 2V0",
+        "Collecte_Longitude": -70.8723251834,
+        "Collecte_Latitude": 46.606357958
+    },
+    {
+        "index": 329,
+        "Collecte_Nom": "\u00c9cocentre de Sainte-Sophie",
+        "Collecte_Adresse": "2535, 1ere rue",
+        "Collecte_Ville": "Sainte-Sophie",
+        "Collecte_Codepostal": "J5J 2R7",
+        "Collecte_Longitude": -73.9020482238,
+        "Collecte_Latitude": 45.7818845319
+    },
+    {
+        "index": 330,
+        "Collecte_Nom": "\u00c9cocentre de Saint-\u00c9tienne-des-Gr\u00e8s",
+        "Collecte_Adresse": "440, boulevard la Gabelle, entr\u00e9e # 4",
+        "Collecte_Ville": "Saint-\u00c9tienne-des-Gr\u00e8s ",
+        "Collecte_Codepostal": "G0X 2P0",
+        "Collecte_Longitude": -72.7589675706,
+        "Collecte_Latitude": 46.3939902553
+    },
+    {
+        "index": 331,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Eustache",
+        "Collecte_Adresse": "695, 25e avenue",
+        "Collecte_Ville": "Saint-Eustache",
+        "Collecte_Codepostal": "J7R 4K3",
+        "Collecte_Longitude": -73.9248307066,
+        "Collecte_Latitude": 45.6032367297
+    },
+    {
+        "index": 332,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Gervais",
+        "Collecte_Adresse": "route 279 ",
+        "Collecte_Ville": "Saint-Gervais",
+        "Collecte_Codepostal": "G0R 3C0",
+        "Collecte_Longitude": -70.8778631081,
+        "Collecte_Latitude": 46.7078926578
+    },
+    {
+        "index": 333,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Honor\u00e9",
+        "Collecte_Adresse": "2991, boulevard Martel",
+        "Collecte_Ville": "Saint-Honor\u00e9 ",
+        "Collecte_Codepostal": "G0V 1L0",
+        "Collecte_Longitude": -71.0926076707,
+        "Collecte_Latitude": 48.3733708238
+    },
+    {
+        "index": 334,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Isidore",
+        "Collecte_Adresse": "rue Boyer (face au 202)",
+        "Collecte_Ville": "Saint-Isidore",
+        "Collecte_Codepostal": "J0L 2A0",
+        "Collecte_Longitude": -73.6810531244,
+        "Collecte_Latitude": 45.3007322596
+    },
+    {
+        "index": 335,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Patrice-de-Beaurivage",
+        "Collecte_Adresse": "rue du Parc",
+        "Collecte_Ville": "Saint-Patrice-de-Beaurivage",
+        "Collecte_Codepostal": "G0S 1B0",
+        "Collecte_Longitude": -71.2413103779,
+        "Collecte_Latitude": 46.4071283483
+    },
+    {
+        "index": 336,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Rapha\u00ebl",
+        "Collecte_Adresse": "route 281 ",
+        "Collecte_Ville": "Saint-Rapha\u00ebl",
+        "Collecte_Codepostal": "G0R 4C0",
+        "Collecte_Longitude": -70.8263358615,
+        "Collecte_Latitude": 46.8103238829
+    },
+    {
+        "index": 337,
+        "Collecte_Nom": "\u00c9cocentre de T\u00e9miscamingue",
+        "Collecte_Adresse": "201, rue du Parc Industriel",
+        "Collecte_Ville": "T\u00e9miscaming",
+        "Collecte_Codepostal": "J0Z 3R0",
+        "Collecte_Longitude": -79.0673135835,
+        "Collecte_Latitude": 46.7321891941
+    },
+    {
+        "index": 338,
+        "Collecte_Nom": "\u00c9cocentre de Trois-Rives",
+        "Collecte_Adresse": "chemin des Corbeaux",
+        "Collecte_Ville": "Saint-Joseph-de-M\u00e9kinac",
+        "Collecte_Codepostal": "G0X 2C0",
+        "Collecte_Longitude": -72.6936210489,
+        "Collecte_Latitude": 46.9410694528
+    },
+    {
+        "index": 339,
+        "Collecte_Nom": "\u00c9cocentre occasionnel de Valcourt",
+        "Collecte_Adresse": "chemin du Mont Valcourt",
+        "Collecte_Ville": "Valcourt",
+        "Collecte_Codepostal": "J0E 2L0",
+        "Collecte_Longitude": -72.3304087862,
+        "Collecte_Latitude": 45.4747707444
+    },
+    {
+        "index": 340,
+        "Collecte_Nom": "\u00c9cocentre du Canton de Potton",
+        "Collecte_Adresse": "5, chemin West Hill",
+        "Collecte_Ville": "Canton de Potton ",
+        "Collecte_Codepostal": "J0E 1X0",
+        "Collecte_Longitude": -72.271848412,
+        "Collecte_Latitude": 45.0359146627
+    },
+    {
+        "index": 341,
+        "Collecte_Nom": "\u00c9cocentre du Lac Simon",
+        "Collecte_Adresse": "123, rue du Parc",
+        "Collecte_Ville": "Lac Simon",
+        "Collecte_Codepostal": "J0V 1E0",
+        "Collecte_Longitude": -75.099923647,
+        "Collecte_Latitude": 45.8848494347
+    },
+    {
+        "index": 342,
+        "Collecte_Nom": "\u00c9cocentre du Lac-Etchemin",
+        "Collecte_Adresse": "rue Deblois",
+        "Collecte_Ville": "Lac-Etchemin",
+        "Collecte_Codepostal": "G0R 1S0",
+        "Collecte_Longitude": -70.5240458607,
+        "Collecte_Latitude": 46.4004656444
+    },
+    {
+        "index": 343,
+        "Collecte_Nom": "\u00c9coparc de Repentigny",
+        "Collecte_Adresse": "336, Charles-Marchand",
+        "Collecte_Ville": "Repentigny",
+        "Collecte_Codepostal": "J5Z 4N8",
+        "Collecte_Longitude": -73.4844461463,
+        "Collecte_Latitude": 45.7567575264
+    },
+    {
+        "index": 344,
+        "Collecte_Nom": "Micro-\u00e9cocentre de Deschambeault-Grondines",
+        "Collecte_Adresse": "11, boulevard des Sources ",
+        "Collecte_Ville": "Deschambeault-Grondines",
+        "Collecte_Codepostal": "G0A 1S0",
+        "Collecte_Longitude": -71.9331616195,
+        "Collecte_Latitude": 46.6457739608
+    },
+    {
+        "index": 345,
+        "Collecte_Nom": "Point de chute des RDD de Rivi\u00e8re-au-Renard",
+        "Collecte_Adresse": "14, rue de l'Entrep\u00f4t",
+        "Collecte_Ville": "Gasp\u00e9",
+        "Collecte_Codepostal": "G4X 5L4",
+        "Collecte_Longitude": -64.3752730716,
+        "Collecte_Latitude": 48.9922195951
+    },
+    {
+        "index": 346,
+        "Collecte_Nom": "D\u00e9chetterie de Saint-Camille",
+        "Collecte_Adresse": "Rue Fournier",
+        "Collecte_Ville": "Saint-Camille-de-Lellis",
+        "Collecte_Codepostal": "G0R 2S0",
+        "Collecte_Longitude": -70.214378764,
+        "Collecte_Latitude": 46.4942287318
+    },
+    {
+        "index": 347,
+        "Collecte_Nom": "DMS Sainte-Marthe-sur-le-Lac",
+        "Collecte_Adresse": "2960, boulevard des Promenades",
+        "Collecte_Ville": "Sainte-Marthe-sur-le-Lac",
+        "Collecte_Codepostal": "J0N 1P0",
+        "Collecte_Longitude": -73.9300137769,
+        "Collecte_Latitude": 45.5313810454
+    },
+    {
+        "index": 348,
+        "Collecte_Nom": "\u00c9cocentre de Rigaud",
+        "Collecte_Adresse": "32, rue de la Coop\u00e9rative ",
+        "Collecte_Ville": "Rigaud",
+        "Collecte_Codepostal": "J0P 1P0",
+        "Collecte_Longitude": -74.3242373365,
+        "Collecte_Latitude": 45.4932589543
+    },
+    {
+        "index": 349,
+        "Collecte_Nom": "Conteneurs \u00e0 rebuts municipal de Otterburn Park",
+        "Collecte_Adresse": "120, rue Bellevue (garage municipal)",
+        "Collecte_Ville": "Otterburn Park",
+        "Collecte_Codepostal": "J3H 1Y6",
+        "Collecte_Longitude": -73.2015260091,
+        "Collecte_Latitude": 45.5493053642
+    },
+    {
+        "index": 350,
+        "Collecte_Nom": "REL d\u2019Angliers",
+        "Collecte_Adresse": "Rang 13",
+        "Collecte_Ville": "Angliers",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -79.1989314985,
+        "Collecte_Latitude": 47.5292870953
+    },
+    {
+        "index": 351,
+        "Collecte_Nom": "REL de Fug\u00e8reville",
+        "Collecte_Adresse": "Chemin de la Baie Gillies",
+        "Collecte_Ville": "Fug\u00e8reville",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -79.1143762368,
+        "Collecte_Latitude": 47.4258058102
+    },
+    {
+        "index": 352,
+        "Collecte_Nom": "REL de Lorrainville",
+        "Collecte_Adresse": "325, route 391",
+        "Collecte_Ville": "Lorrainville",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -70.7930917402,
+        "Collecte_Latitude": 46.1995189655
+    },
+    {
+        "index": 353,
+        "Collecte_Nom": "REL de Saint-Eug\u00e8ne-de-Guigues",
+        "Collecte_Adresse": "Chemin du 6e et 7e rang",
+        "Collecte_Ville": "Saint-Eug\u00e8ne-de-Guigues",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -79.38285001,
+        "Collecte_Latitude": 47.5107759652
+    },
+    {
+        "index": 354,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Lyster",
+        "Collecte_Adresse": "140, rue Saint-Pierre",
+        "Collecte_Ville": "Lyster",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -74.3035128733,
+        "Collecte_Latitude": 45.4774795749
+    },
+    {
+        "index": 355,
+        "Collecte_Nom": "Point de collecte des r\u00e9sidus verts - Notre-Dame-de-Lourdes",
+        "Collecte_Adresse": "842, Ancienne route de l\u2019\u00c9glise",
+        "Collecte_Ville": "Notre-Dame-de-Lourdes",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": -69.6311609181,
+        "Collecte_Latitude": 47.7430207972
+    },
+    {
+        "index": 356,
+        "Collecte_Nom": "Biblioth\u00e8que municipale - Lac-Saguay",
+        "Collecte_Adresse": "257-A, route 117",
+        "Collecte_Ville": "Lac-Saguay",
+        "Collecte_Codepostal": "J0W 1L0",
+        "Collecte_Longitude": -75.1435352472,
+        "Collecte_Latitude": 46.4972756882
+    },
+    {
+        "index": 357,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Saint-Just-de-Breteni\u00e8res",
+        "Collecte_Adresse": "542, Rue Principale",
+        "Collecte_Ville": "Saint-Just-de-Breteni\u00e8res",
+        "Collecte_Codepostal": "G0H 3H0",
+        "Collecte_Longitude": -67.7728888435,
+        "Collecte_Latitude": 48.4738566785
+    },
+    {
+        "index": 358,
+        "Collecte_Nom": "\u00c9cocentre Nikawi Aski",
+        "Collecte_Adresse": "1, chemin de Manouane",
+        "Collecte_Ville": "Manawan",
+        "Collecte_Codepostal": "J0K 1M0",
+        "Collecte_Longitude": -75.6347048589,
+        "Collecte_Latitude": 45.8791775754
+    },
+    {
+        "index": 359,
+        "Collecte_Nom": "\u00c9cocentre Petit-Saguenay",
+        "Collecte_Adresse": "35, rue du Quai",
+        "Collecte_Ville": "Petit-Saguenay",
+        "Collecte_Codepostal": "G0V 1N0",
+        "Collecte_Longitude": -70.0767279322,
+        "Collecte_Latitude": 48.2160702754
+    },
+    {
+        "index": 360,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Sainte-Eulalie",
+        "Collecte_Adresse": "765, rue des Bouleaux",
+        "Collecte_Ville": "Sainte-Eulalie",
+        "Collecte_Codepostal": "G0Z 1G0",
+        "Collecte_Longitude": -71.0025970016,
+        "Collecte_Latitude": 46.4360085157
+    },
+    {
+        "index": 361,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal -Sainte-Sophie-de-L\u00e9vrard",
+        "Collecte_Adresse": "261-B, rue Saint-Antoine",
+        "Collecte_Ville": "Sainte-Sophie-de-L\u00e9vrard",
+        "Collecte_Codepostal": "G0X 3C0",
+        "Collecte_Longitude": -72.1157572169,
+        "Collecte_Latitude": 46.4327848474
+    },
+    {
+        "index": 362,
+        "Collecte_Nom": "\u00c9cocentre Ste-Catherine-de-la-Jacques-Cartier",
+        "Collecte_Adresse": "150, rue Cl\u00e9ment-Paquet",
+        "Collecte_Ville": "Sainte-Catherine-de-la-Jacques-Cartier",
+        "Collecte_Codepostal": "G3N 3E5",
+        "Collecte_Longitude": -71.5644068598,
+        "Collecte_Latitude": 46.8481597027
+    },
+    {
+        "index": 363,
+        "Collecte_Nom": "\u00c9cocentre satellite de Chimo",
+        "Collecte_Adresse": "Kilom\u00e8tre 10, chemin Chimo (qui m\u00e8ne vers le lac Gu\u00e9guen)",
+        "Collecte_Ville": "Val-d'Or ",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 364,
+        "Collecte_Nom": "\u00c9cocentre satellite  de Lac Camatose",
+        "Collecte_Adresse": "Kilom\u00e8tre 2, route 29",
+        "Collecte_Ville": "Val-d'Or ",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 365,
+        "Collecte_Nom": "\u00c9cocentre de Saint-Ludger-de Milot",
+        "Collecte_Adresse": "chemin de l'\u00c9cocentre",
+        "Collecte_Ville": "Saint-Ludger-de-Milot ",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 366,
+        "Collecte_Nom": "REL de Kipawa",
+        "Collecte_Adresse": "Chemin Maniwaki (coin George-Dupont)",
+        "Collecte_Ville": "Kipawa",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 367,
+        "Collecte_Nom": "REL de Laforce",
+        "Collecte_Adresse": "Chemin Laforce-Belleterre (3 km de Laforce)",
+        "Collecte_Ville": "Laforce",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 368,
+        "Collecte_Nom": "REL de Latulipe-et-Gaboury",
+        "Collecte_Adresse": "Chemin Belleterre-Latulipe",
+        "Collecte_Ville": "Latulipe-et-Gaboury",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 369,
+        "Collecte_Nom": "REL de Moffet",
+        "Collecte_Adresse": "Canton Latulipe, rang 2, lot 25",
+        "Collecte_Ville": "Moffet",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 370,
+        "Collecte_Nom": "REL de Notre-Dame-du-Nord",
+        "Collecte_Adresse": "Lot 61, rang 1, Gu\u00e9rin (REL d\u2019\u00e9t\u00e9) et 71, rue Principale Nord (REL d\u2019hiver)",
+        "Collecte_Ville": "Notre-Dame-du-Nord",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 371,
+        "Collecte_Nom": "REL de R\u00e9migny",
+        "Collecte_Adresse": "Canton R\u00e9migny, rang 7 35-P",
+        "Collecte_Ville": "R\u00e9migny",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 372,
+        "Collecte_Nom": "REL du TNO Laniel",
+        "Collecte_Adresse": "Laniel (village)",
+        "Collecte_Ville": "Laniel",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 373,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Gentilly",
+        "Collecte_Adresse": "route 132, ouest du village",
+        "Collecte_Ville": "B\u00e9cancour",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    },
+    {
+        "index": 374,
+        "Collecte_Nom": "Point de d\u00e9p\u00f4t municipal - Manseau",
+        "Collecte_Adresse": "Au bout de la rue Sainte-Marie \u00e0 gauche ",
+        "Collecte_Ville": "Manseau",
+        "Collecte_Codepostal": null,
+        "Collecte_Longitude": null,
+        "Collecte_Latitude": null
+    }
+]
