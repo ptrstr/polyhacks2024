@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { View } from 'react-native';
-import { Text } from 'react-native-paper';
+import { Text, Button } from 'react-native-paper';
 import { CheckboxQuestion } from './CheckboxQuestion';
 
 export function Form() {
@@ -13,7 +13,9 @@ export function Form() {
                 <CheckboxQuestion label="question1" checked={q1checked} setChecked={setQ1Checked} />
                 <CheckboxQuestion label="question2" checked={q1checked} setChecked={setQ1Checked} />
                 <CheckboxQuestion label="question3" checked={q1checked} setChecked={setQ1Checked} />
-                
+                <Button icon="send" mode="contained" onPress={() => console.log('Answered saved.')}>
+                    Save my answers
+                </Button>
             </View>
         </View>
     );
